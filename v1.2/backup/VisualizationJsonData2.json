@@ -1,0 +1,254 @@
+{
+   "id": "Root",
+   "value": 0.0,
+   "children": [
+      {
+         "id": "37e62442-d7e6-44dd-8538-7aad6ab7f497",
+         "value": 0.0,
+         "children": [
+            {
+               "id": "3181cf7f-5972-494a-8c09-d8aef5e77f3b",
+               "value": 0.0,
+               "children": []
+            }
+         ]
+      },
+      {
+         "id": "184d6ded-d60c-4ff0-aa9b-eb0a154eb785",
+         "value": 0.0,
+         "children": [
+            {
+               "id": "bcf0869a-04ab-465d-843a-684867464ee1",
+               "value": 0.0,
+               "children": [
+                  {
+                     "id": "8660cb57-61e7-4901-885e-08a39a2ccc6b",
+                     "value": -0.7098001669157815,
+                     "children": [
+                        {
+                           "id": "7a4737d9-987d-4330-ad25-f9aa1cdb4878",
+                           "value": -0.09970767397831358,
+                           "children": []
+                        },
+                        {
+                           "id": "03307107-df0c-4118-93fd-19e2f72e7244",
+                           "value": -0.30673694406050084,
+                           "children": [
+                              {
+                                 "id": "29ab8362-9675-407a-8cde-1578c3c12f17",
+                                 "value": -0.22207875216633763,
+                                 "children": [
+                                    {
+                                       "id": "575e03b1-357c-4ada-bef8-6051b53d0e22",
+                                       "value": -0.6688967099171451,
+                                       "children": []
+                                    },
+                                    {
+                                       "id": "898f166b-c38a-4329-b1f3-16e1e12f8b9a",
+                                       "value": -0.6724083368425361,
+                                       "children": []
+                                    }
+                                 ]
+                              },
+                              {
+                                 "id": "6a1abf94-3648-448f-861d-323e8a66ff84",
+                                 "value": -0.1989703506547586,
+                                 "children": [
+                                    {
+                                       "id": "915c5a82-f1e5-4cff-b117-96321bb020c1",
+                                       "value": -0.6146645081435351,
+                                       "children": []
+                                    },
+                                    {
+                                       "id": "1c2035e1-f280-4e76-bdb8-8ad894c189c2",
+                                       "value": -0.6212793717286125,
+                                       "children": []
+                                    }
+                                 ]
+                              },
+                              {
+                                 "id": "842a7855-0651-49a2-8d56-f7494a4c6493",
+                                 "value": -0.22220634063881528,
+                                 "children": []
+                              },
+                              {
+                                 "id": "1adc091f-a0ee-47b0-a84b-3284f338ae32",
+                                 "value": -0.3112511061585145,
+                                 "children": []
+                              },
+                              {
+                                 "id": "8fba3189-9a43-4e01-bb82-4f4d4f705175",
+                                 "value": -0.30770026103187403,
+                                 "children": []
+                              },
+                              {
+                                 "id": "4134f74f-65e8-4f1c-b98f-0b6d83b6faa6",
+                                 "value": -0.2731916104322444,
+                                 "children": [
+                                    {
+                                       "id": "0784546d-be41-4f1d-a4ac-a8edb89f313c",
+                                       "value": -0.2854295859876496,
+                                       "children": []
+                                    }
+                                 ]
+                              },
+                              {
+                                 "id": "fd8eb8ca-64fc-4176-a366-4cf78da8fdfb",
+                                 "value": -0.27698439303327654,
+                                 "children": []
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "id": "35d97bb8-236a-4bf9-9782-d840011af351",
+                     "value": 0.0,
+                     "children": []
+                  },
+                  {
+                     "id": "3149244a-fc84-4117-8405-ba2e00b5aa01",
+                     "value": 0.0,
+                     "children": [
+                        {
+                           "id": "7d9c06c4-9242-4908-8f31-ced4b4cd8588",
+                           "value": 0.0,
+                           "children": []
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "id": "3c8ab8e4-5662-4550-8d2d-c5e579c88b71",
+               "value": 0.0,
+               "children": [
+                  {
+                     "id": "b712fe7c-1f23-4765-847d-75248c3bfb84",
+                     "value": 0.0,
+                     "children": []
+                  },
+                  {
+                     "id": "65f3ae7d-2a82-4502-a508-b430f5ddc34e",
+                     "value": 0.0,
+                     "children": []
+                  }
+               ]
+            },
+            {
+               "id": "fc2ed9fa-3246-485f-9938-c9c7b3460199",
+               "value": 0.0,
+               "children": [
+                  {
+                     "id": "a5937f91-2fc8-4d88-9881-6ee0128f47ad",
+                     "value": 0.0,
+                     "children": []
+                  },
+                  {
+                     "id": "b18a389a-df85-4585-8466-d1cf0a5af3d3",
+                     "value": 0.0,
+                     "children": []
+                  }
+               ]
+            },
+            {
+               "id": "d9cc0a70-2fdc-4fbf-8dd9-bff81d0b1b35",
+               "value": 0.0,
+               "children": [
+                  {
+                     "id": "ec21272c-8d6b-4f59-9f4c-caf170d95368",
+                     "value": 0.0,
+                     "children": []
+                  },
+                  {
+                     "id": "c934bbe7-037b-4a8e-961f-ceb9c7711338",
+                     "value": 0.0,
+                     "children": []
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id": "76eee0d5-c2de-4ded-aa7a-aa6a18f776a1",
+         "value": 0.0,
+         "children": [
+            {
+               "id": "571f3a34-9834-4ec1-be2f-ac89ee130b53",
+               "value": 0.0,
+               "children": []
+            }
+         ]
+      },
+      {
+         "id": "5f57cf9c-47b2-4c82-bd92-8eee93203c92",
+         "value": 0.0,
+         "children": [
+            {
+               "id": "d16edda8-1b4b-4b29-89c6-3370d1e1831f",
+               "value": 0.0,
+               "children": []
+            }
+         ]
+      },
+      {
+         "id": "27188eb2-34f4-4f08-a9d9-34ec3faf4189",
+         "value": 0.0,
+         "children": [
+            {
+               "id": "62d8f890-6215-4768-bf65-4483a5cb581a",
+               "value": 0.0,
+               "children": []
+            },
+            {
+               "id": "2f630c3d-4662-4da6-a27b-b293caef54e7",
+               "value": 0.0,
+               "children": []
+            }
+         ]
+      },
+      {
+         "id": "e780b89c-fb3d-47ba-9ff9-a60d714a1ced",
+         "value": 0.0,
+         "children": [
+            {
+               "id": "e079088a-3d24-4527-83b6-1723f0bdfdd6",
+               "value": 0.0,
+               "children": []
+            },
+            {
+               "id": "54befcc2-8337-44f5-9ed0-bfc9a7ca6c0a",
+               "value": 0.0,
+               "children": []
+            }
+         ]
+      },
+      {
+         "id": "8ed738ee-84a6-4db9-bad9-09c5eb82f13a",
+         "value": 0.0,
+         "children": [
+            {
+               "id": "8fdb7bc7-7f8c-4b30-a403-37f6344be0aa",
+               "value": 0.0,
+               "children": []
+            },
+            {
+               "id": "0780710d-4bdb-4766-966a-38d5e616123d",
+               "value": 0.0,
+               "children": []
+            }
+         ]
+      },
+      {
+         "id": "e0d21ef4-6d2b-4e4f-a1a7-78fa7784d080",
+         "value": 0.0,
+         "children": [
+            {
+               "id": "99532add-9d41-4c15-99ad-78930dbe8d00",
+               "value": 0.0,
+               "children": []
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,60 @@
+2025-10-22 14:45:41,832 - INFO - 让我感到开心一些
+2025-10-22 14:45:46,841 - INFO - 让我感到开心一些
+2025-10-22 14:45:51,857 - INFO - 让我感到开心一些
+2025-10-22 14:45:52,371 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 14:45:56,869 - INFO - 让我感到开心一些
+2025-10-22 14:46:01,882 - INFO - 让我感到开心一些
+2025-10-22 14:46:02,835 - INFO - {
+    "content": "Make me feel happier", 
+    "is_abstract": true,
+    "children": [
+        {
+            "content": "Share positive thoughts and affirmations", 
+            "is_abstract": false,
+            "children": []
+        },
+        {
+            "content": "Suggest uplifting activities", 
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Recommend listening to cheerful music", 
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Suggest watching a funny video", 
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Offer supportive conversation", 
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Ask about things that usually make you happy", 
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Share motivational quotes", 
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+2025-10-22 14:46:03,273 - INFO - 2
+2025-10-22 14:46:03,446 - INFO - 2
+2025-10-22 14:46:03,447 - INFO - 3
+2025-10-22 14:46:06,891 - INFO - 让我感到开心一些
+2025-10-22 14:46:06,891 - INFO - ├── Suggest uplifting activities
+2025-10-22 14:46:06,892 - INFO - │   ├── Recommend listening to cheerful music
+2025-10-22 14:46:06,892 - INFO - │   └── Suggest watching a funny video
+2025-10-22 14:46:06,893 - INFO - └── Offer supportive conversation
+2025-10-22 14:46:06,893 - INFO -     ├── Ask about things that usually make you happy
+2025-10-22 14:46:06,893 - INFO -     └── Share motivational quotes
+2025-10-22 14:46:07,404 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"

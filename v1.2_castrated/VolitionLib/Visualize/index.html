@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tree Visualization</title>
+    <style>
+        #cy {
+            width: 100%;
+            height: 100vh;
+            position: absolute;
+            top: 0;
+            left: 0;
+            transition: background-color 0.5s ease;
+        }
+        .controls {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background: rgba(0,0,0,0.7);
+            padding: 10px;
+            border-radius: 5px;
+            color: white;
+        }
+        button {
+            margin: 5px;
+            padding: 8px 12px;
+            background: #2ca02c;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #248f24;
+        }
+    </style>
+    <script src="https://unpkg.com/cytoscape@3.26.0/dist/cytoscape.min.js"></script>
+</head>
+<body>
+    <div id="cy"></div>
+
+    <script>
+        // 配置参数
+        const CONFIG = {
+            A_COLOR: '#0080FF',  // 深蓝色
+            B_COLOR: '#EA0000',  // 橙红色
+            C_COLOR: '#00DB00',  // 亮绿色
+            EDGE_ALPHA: 0.6,     // 边的透明度（0.0 - 1.0） -> 40%
+            TRANSITION_DURATION: 800,
+            NODE_RADIUS: 10
+            ,
+            // how long to wait before removing nodes that disappeared in new snapshot
+            REMOVAL_GRACE_MS: 1500
+        };
+
+        class TreeVisualizer {
+
+            constructor() {
+                this.cy = cytoscape({
+                    container: document.getElementById('cy'),
+                    style: [
+                        {
+                            selector: 'node',
+                            style: {
+                                'background-color': 'data(color)',
+                                'width': 26,
+                                'height': 26,
+                                'opacity': 0.8, // 节点默认透明度 80%
+                                'transition-property': 'background-color, width, height, opacity',
+                                'transition-duration': `${CONFIG.TRANSITION_DURATION}ms`
+                            }
+                        },
+                        {
+                            selector: 'edge',
+                            style: {
+                                'width': 7,
+                                'line-color': 'data(color)',
+                                'target-arrow-color': 'data(color)',
+                                'target-arrow-shape': 'triangle',
+                                'curve-style': 'bezier',
+                                'line-opacity': CONFIG.EDGE_ALPHA, // 边线透明度 40%
+                                'opacity': 1, // 元素整体透明度（我们在添加时分别动画节点/边到不同的 opacity）
+                                'transition-property': 'line-color, target-arrow-color, opacity, line-opacity',
+                                'transition-duration': `${CONFIG.TRANSITION_DURATION}ms`
+                            }
+                        }
+                    ]
+                });
+
+                this.previousData = {
+                    // nodes -> { lastSeen: ms, missingSince: ms|null }
+                    nodes: new Map(),
+                    currentNodeID: null,
+                    triggerState: null,
+                    nodeCount: 0
+                };
+
+                this.zoomLevel = 0;
+                this.currentScale = 1;
+                this.updateInterval = null;
+                this.nodeCounter = 0;
+                this.useTreeLayout = true;
+                this.layoutType = 'circle';
+                
+                this.init();
+            }
+
+            // 初始化
+            init() { 
+                // 启动定时检测
+                setInterval(async () => {
+                    try {
+                        const response = await fetch('http://localhost:5000/api/tree-data');
+                        
+                        if (response.ok) {
+                            const jsonData = await response.json();
+                            
+                            // 根据你的API响应结构调整
+                            const treeData = jsonData.treeData || jsonData;
+                            const stateData = jsonData.stateData || {
+                                "CurrentNodeID": jsonData.CurrentNodeID, 
+                                "TriggerState": false // 没有开启背景颜色变化
+                            };
+                            
+                            this.updateVisualization(treeData, stateData);
+                        } else {
+                            console.log('API请求失败:', response.status);
+                        }
+                    } catch (error) {
+                        console.log('获取数据失败:', error);
+                        // 保持当前状态，不更新可视化
+                    }
+                }, 1000); // 每秒检测一次
+            }
+
+            // 检测Json数据
+            fileMethod() { // 待完成
+                // 启动定时检测
+                setInterval(() => {
+                    // 同步读取JSON文件
+                    const xhr = new XMLHttpRequest();
+                    xhr.open('GET', 'VisualizationJsonData.json', false);
+                    
+                    try {
+                        xhr.send();
+                        if (xhr.status === 200) {
+                            const jsonData = JSON.parse(xhr.responseText);
+                            var stateData = {"CurrentNodeID": "Root", "TriggerState": false}
+                            this.updateVisualization(jsonData, stateData);
+                            return;
+                        }
+                    } catch (error) {
+                        // 读取失败时不做任何事（保持当前状态）
+                    }
+                }, 1000); // 这里是延迟
+            }
+
+            // 更新可视化
+            updateVisualization(treeData, stateData) {
+                console.log('更新可视化:', treeData, stateData);
+                
+                // 更新背景颜色
+                this.updateBackground(stateData.TriggerState);
+
+                // 处理树数据更新
+                this.processTreeData(treeData, stateData.CurrentNodeID);
+
+                // 更新UI显示
+                this.updateUI();
+            }
+
+            // 更新背景颜色
+            updateBackground(triggerState) {
+                if (this.previousData.triggerState !== triggerState) {
+                    const newBackground = triggerState ? '#ffffff' : '#000000';
+                    document.getElementById('cy').style.backgroundColor = newBackground;
+                    this.previousData.triggerState = triggerState;
+                }
+            }
+
+            // 处理树数据
+            processTreeData(treeData, currentNodeID) {
+                const nodesToAdd = [];
+                const edgesToAdd = [];
+                const existingNodes = new Set();
+                const now = Date.now();
+
+                // 遍历树数据
+                const rootId = treeData && treeData.id;
+                const traverse = (node, parentId = null) => {
+                    const nodeId = node.id;
+                    existingNodes.add(nodeId);
+
+                    // 计算节点颜色
+                    const nodeColor = this.calculateNodeColor(node.value, nodeId === currentNodeID, nodeId, rootId);
+
+                    // 检查节点是否存在
+                    const existingNode = this.cy.getElementById(nodeId);
+                    if (existingNode.length === 0) {
+                        // 新节点 - 初始设置为透明，然后渐变显示
+                        const position = parentId ? 
+                            this.calculateRandomPositionNearParent(parentId) : 
+                            { x: window.innerWidth / 2, y: window.innerHeight / 2 };
+                            
+                        nodesToAdd.push({
+                            data: {
+                                id: nodeId,
+                                value: node.value,
+                                color: nodeColor
+                            },
+                            position: position,
+                            style: {
+                                'opacity': 0
+                            }
+                        });
+                    } else {
+                        // 更新现有节点 - 有颜色过渡
+                        existingNode.data('value', node.value);
+                        existingNode.data('color', nodeColor);
+                    }
+
+                    // 处理边
+                    if (parentId) {
+                        const edgeId = `${parentId}-${nodeId}`;
+                        const parentNode = this.cy.getElementById(parentId);
+                        const parentColor = parentNode.data('color') || this.calculateNodeColor(0, false);
+                        // 如果 current 是根节点 -> 所有箭头为绿色
+                        // 否则指向 current node 的箭头为 B_COLOR，其它为 A_COLOR
+                        const edgeColor = this.calculateEdgeColor(parentColor, nodeId === currentNodeID, currentNodeID === rootId);
+
+                        const existingEdge = this.cy.getElementById(edgeId);
+                        if (existingEdge.length === 0) {
+                            // 新边 - 初始透明
+                            edgesToAdd.push({
+                                data: {
+                                    id: edgeId,
+                                    source: parentId,
+                                    target: nodeId,
+                                    color: edgeColor
+                                },
+                                style: {
+                                    'opacity': 0,
+                                    'line-opacity': CONFIG.EDGE_ALPHA
+                                }
+                            });
+                        } else {
+                            // 更新现有边颜色
+                            existingEdge.data('color', edgeColor);
+                        }
+                    }
+
+                    // mark seen
+                    this.previousData.nodes.set(nodeId, { lastSeen: now, missingSince: null });
+
+                    // 递归处理子节点
+                    if (node.children) {
+                        node.children.forEach(child => {
+                            traverse(child, nodeId);
+                        });
+                    }
+                };
+
+                traverse(treeData);
+
+                // 添加新节点和边
+                if (nodesToAdd.length > 0 || edgesToAdd.length > 0) {
+                    const newElements = this.cy.add(nodesToAdd.concat(edgesToAdd));
+                    
+                    // 分别对节点和边执行渐入动画（节点到 80%，边到 CONFIG.EDGE_ALPHA）
+                    const newNodes = newElements.filter('node');
+                    const newEdges = newElements.filter('edge');
+
+                    if (newNodes.length > 0) {
+                        newNodes.animate({
+                            style: { 'opacity': 0.8 },
+                            duration: CONFIG.TRANSITION_DURATION
+                        });
+                    }
+                    if (newEdges.length > 0) {
+                        newEdges.animate({
+                            style: { 'opacity': CONFIG.EDGE_ALPHA },
+                            duration: CONFIG.TRANSITION_DURATION
+                        });
+                    }
+
+                    // 只有在使用树状布局时才应用布局（稍延迟以等动画初始态完成）
+                    if (this.useTreeLayout) {
+                        setTimeout(() => {
+                            this.updateLayout();
+                        }, 100);
+                    }
+                }
+
+                // 更新 missingSince for nodes not present in this snapshot
+                this.cy.nodes().forEach(n => {
+                    const nid = n.id();
+                    if (!existingNodes.has(nid)) {
+                        const entry = this.previousData.nodes.get(nid) || { lastSeen: 0, missingSince: null };
+                        if (entry.missingSince == null) entry.missingSince = now;
+                        this.previousData.nodes.set(nid, entry);
+                    } else {
+                        // present — ensure missingSince cleared (we already set lastSeen above)
+                        const entry = this.previousData.nodes.get(nid) || { lastSeen: now, missingSince: null };
+                        entry.lastSeen = now;
+                        entry.missingSince = null;
+                        this.previousData.nodes.set(nid, entry);
+                    }
+                });
+
+                // Remove nodes that have been missing for longer than grace interval
+                const nodesToActuallyRemove = this.cy.nodes().filter(node => {
+                    if (existingNodes.has(node.id())) return false;
+                    const entry = this.previousData.nodes.get(node.id());
+                    if (!entry || !entry.missingSince) return false;
+                    return (now - entry.missingSince) >= CONFIG.REMOVAL_GRACE_MS;
+                });
+
+                if (nodesToActuallyRemove.length > 0) {
+                    nodesToActuallyRemove.animate({ style: { 'opacity': 0 }, duration: CONFIG.TRANSITION_DURATION });
+                    setTimeout(() => {
+                        this.cy.remove(nodesToActuallyRemove);
+                        if (this.useTreeLayout) this.updateLayout();
+                    }, CONFIG.TRANSITION_DURATION);
+                }
+
+                this.previousData.currentNodeID = currentNodeID;
+
+                // this.updateLayout();
+            }
+
+            // 在父节点附近计算随机位置
+            calculateRandomPositionNearParent(parentId) {
+                const parentNode = this.cy.getElementById(parentId);
+                if (parentNode.length === 0) {
+                    return { 
+                        x: Math.random() * window.innerWidth, 
+                        y: Math.random() * window.innerHeight 
+                    };
+                }
+
+                const parentPos = parentNode.position();
+                const angle = Math.random() * 2 * Math.PI;
+                const distance = 100 + Math.random() * 100; // 距离父节点100-200像素
+                
+                return {
+                    x: parentPos.x + Math.cos(angle) * distance,
+                    y: parentPos.y + Math.sin(angle) * distance
+                };
+            }
+
+            // 计算节点颜色
+            calculateNodeColor(value, isCurrentNode, nodeId, rootId) {
+                // 如果节点是根节点，显示绿色
+                if (nodeId === rootId) {
+                    return CONFIG.C_COLOR;
+                }
+                
+                // 其他节点根据value值渐变
+                const normalizedValue = Math.max(-1, Math.min(1, value));
+                const t = (normalizedValue + 1) / 2; // 归一化到0-1
+
+                return this.interpolateColor(CONFIG.A_COLOR, CONFIG.B_COLOR, t);
+            }
+
+            // 计算边颜色
+            calculateEdgeColor(parentColor, childIsCurrent, currentIsRoot) {
+                // 如果当前节点是根节点，所有箭头为绿色
+                if (currentIsRoot) {
+                    return CONFIG.C_COLOR;
+                }
+                
+                // 否则，如果子节点是当前节点，箭头为 B_COLOR，否则为 A_COLOR
+                if (childIsCurrent) {
+                    return CONFIG.B_COLOR;
+                } else {
+                    return CONFIG.A_COLOR;
+                }
+            }
+
+            // 颜色插值
+            interpolateColor(color1, color2, factor) {
+                const hexToRgb = hex => {
+                    const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+                    return result ? {
+                        r: parseInt(result[1], 16),
+                        g: parseInt(result[2], 16),
+                        b: parseInt(result[3], 16)
+                    } : null;
+                };
+
+                const rgbToHex = (r, g, b) => {
+                    return `#${((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1)}`;
+                };
+
+                const rgb1 = hexToRgb(color1);
+                const rgb2 = hexToRgb(color2);
+
+                const r = Math.round(rgb1.r + (rgb2.r - rgb1.r) * factor);
+                const g = Math.round(rgb1.g + (rgb2.g - rgb1.g) * factor);
+                const b = Math.round(rgb1.b + (rgb2.b - rgb1.b) * factor);
+
+                return rgbToHex(r, g, b);
+            }
+
+            // 移除已删除的节点
+            removeDeletedNodes(existingNodes) {
+                const nodesToRemove = this.cy.nodes().filter(node => 
+                    !existingNodes.has(node.id())
+                );
+                
+                if (nodesToRemove.length > 0) {
+                    // 渐出动画
+                    nodesToRemove.animate({
+                        style: { 'opacity': 0 },
+                        duration: CONFIG.TRANSITION_DURATION
+                    });
+                    
+                    // 动画完成后移除
+                    setTimeout(() => {
+                        this.cy.remove(nodesToRemove);
+                        if (this.useTreeLayout) {
+                            this.updateLayout();
+                        }
+                    }, CONFIG.TRANSITION_DURATION);
+                }
+            }
+
+            // 更新布局（有动画）- 仅在树状布局模式下使用
+            updateLayout() {
+                if (this.useTreeLayout) {
+                    // 使用 random 布局实现完全随机分布
+                    const layoutOptions = {
+                        name: 'random',
+                        fit: true,
+                        padding: 50,
+                        animate: true,
+                        animationDuration: CONFIG.TRANSITION_DURATION,
+                        // 控制随机性的种子（可选）
+                        // randomize: true // 默认就是true
+                    };
+
+                    const layout = this.cy.layout(layoutOptions);
+                    layout.run();
+                }
+            }
+
+            // 更新UI显示
+            updateUI() {
+                document.getElementById('nodeCount').textContent = this.cy.nodes().length;
+                document.getElementById('zoomLevel').textContent = this.zoomLevel + 1;
+            }
+
+            // 添加测试节点
+            addTestNode(parentId = null) {
+                // 如果没有指定父节点，随机选择一个现有节点
+                if (!parentId) {
+                    const nodes = this.cy.nodes();
+                    if (nodes.length > 0) {
+                        parentId = nodes[Math.floor(Math.random() * nodes.length)].id();
+                    } else {
+                        parentId = 'uuid|root';
+                    }
+                }
+                
+                const parentNode = this.cy.getElementById(parentId);
+                
+                if (parentNode.length > 0) {
+                    const newNodeId = `uuid|test${Date.now()}`;
+                    const newValue = Math.random() * 2 - 1;
+                    
+                    // 在父节点附近计算位置
+                    const parentPos = parentNode.position();
+                    const angle = Math.random() * 2 * Math.PI;
+                    const distance = 80 + Math.random() * 80;
+                    
+                    const newNode = {
+                        data: {
+                            id: newNodeId,
+                            value: newValue,
+                            color: this.calculateNodeColor(newValue, false)
+                        },
+                        position: {
+                            x: parentPos.x + Math.cos(angle) * distance,
+                            y: parentPos.y + Math.sin(angle) * distance
+                        },
+                        style: { 'opacity': 0 }
+                    };
+                    
+                    const newEdge = {
+                        data: {
+                            id: `${parentId}-${newNodeId}`,
+                            source: parentId,
+                            target: newNodeId,
+                            color: this.calculateEdgeColor(parentNode.data('color')) // 使用源节点颜色 + alpha
+                        },
+                        style: { 'opacity': 0, 'line-opacity': CONFIG.EDGE_ALPHA }
+                    };
+                    
+                    const newElements = this.cy.add([newNode, newEdge]);
+
+                    // 分别动画节点与边
+                    const addedNodes = newElements.filter('node');
+                    const addedEdges = newElements.filter('edge');
+                    if (addedNodes.length) {
+                        addedNodes.animate({ style: { 'opacity': 0.8 }, duration: CONFIG.TRANSITION_DURATION });
+                    }
+                    if (addedEdges.length) {
+                        addedEdges.animate({ style: { 'opacity': CONFIG.EDGE_ALPHA }, duration: CONFIG.TRANSITION_DURATION });
+                    }
+                    
+                    this.updateUI();
+                }
+                this.updateLayout();
+            }
+
+            // 移除随机节点
+            removeRandomNode() {
+                const nodes = this.cy.nodes();
+                if (nodes.length > 1) { // 保留根节点
+                    const randomNode = nodes[Math.floor(Math.random() * nodes.length)];
+                    if (randomNode.id() !== 'uuid|root') {
+                        randomNode.animate({
+                            style: { 'opacity': 0 },
+                            duration: CONFIG.TRANSITION_DURATION
+                        });
+                        
+                        setTimeout(() => {
+                            this.cy.remove(randomNode);
+                            if (this.useTreeLayout) {
+                                this.updateLayout();
+                            }
+                            this.updateUI();
+                        }, CONFIG.TRANSITION_DURATION);
+                    }
+                }
+            }
+
+            // 切换布局模式
+            toggleLayout() {
+                this.useTreeLayout = !this.useTreeLayout;
+                if (this.useTreeLayout) {
+                    this.updateLayout();
+                }
+            }
+
+            // 加载实际数据的方法
+            loadRealData(treeData, stateData) {
+                this.updateVisualization(treeData, stateData);
+            }
+        }
+
+        // 初始化可视化器
+        let visualizer;
+        document.addEventListener('DOMContentLoaded', function() {
+            visualizer = new TreeVisualizer();
+            
+            // 加载初始数据
+            const initialTreeData = {
+                "id": "uuid|root", 
+                "value": 0.114514, 
+                "children": []
+            };
+            
+            const initialStateData = {
+                "CurrentNodeID": "uuid|root", 
+                "TriggerState": false
+            };
+            
+            visualizer.loadRealData(initialTreeData, initialStateData);
+        });
+
+        // 全局函数用于测试
+        function addTestNode() {
+            if (visualizer) {
+                visualizer.addTestNode();
+            }
+        }
+
+        function removeRandomNode() {
+            if (visualizer) {
+                visualizer.removeRandomNode();
+            }
+        }
+
+        function toggleLayout() {
+            if (visualizer) {
+                visualizer.toggleLayout();
+            }
+        } 
+    </script>
+</body>
+</html>

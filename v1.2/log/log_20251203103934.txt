@@ -1,0 +1,128 @@
+2025-12-03 10:39:35,149 - INFO - __init__: 树初始化完毕
+2025-12-03 10:39:35,188 - INFO - Didn't Forward
+2025-12-03 10:39:35,296 - INFO - Backward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-03 10:39:37,186 - INFO - [System] Hardware connected on COM3 (High Speed Mode)
+2025-12-03 10:39:37,226 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 10:39:38,208 - INFO - Forward To: Wait for the user's response and plan how to continue the conversation based on their reaction.
+2025-12-03 10:39:38,453 - INFO - Backward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-03 10:39:40,344 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:39:41,218 - INFO - Forward To: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:39:42,459 - INFO - Chat: FirstVolition: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-03 10:39:42,934 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:39:43,461 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:39:44,224 - INFO - Didn't Forward
+2025-12-03 10:39:44,518 - INFO - SpeakQueueThread: Speaking: Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!
+2025-12-03 10:39:45,578 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:39:46,579 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:39:47,232 - INFO - Didn't Forward
+2025-12-03 10:39:49,694 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:39:49,739 - INFO - Chat: FirstVolition: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:39:50,081 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:39:50,234 - INFO - Didn't Forward
+2025-12-03 10:39:51,040 - INFO - Backward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-03 10:39:52,807 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:39:53,241 - INFO - Forward To: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:39:55,926 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:39:56,252 - INFO - Didn't Forward
+2025-12-03 10:39:56,516 - INFO - SpeakQueueThread: Speaking: Isn't it fascinating? We can be your friendly typing buddy, helping you avoid those little slip-ups.
+2025-12-03 10:39:57,215 - INFO - Chat: FirstVolition: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:39:57,475 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:39:59,048 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:39:59,265 - INFO - Didn't Forward
+2025-12-03 10:40:02,165 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:02,273 - INFO - Didn't Forward
+2025-12-03 10:40:02,533 - INFO - Embedding content: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:40:02,547 - INFO - Embedding content: Use warm and inviting opening words
+2025-12-03 10:40:02,561 - INFO - Embedding content: Start with 'Hey there!' to create immediate connection
+2025-12-03 10:40:02,572 - INFO - Embedding content: Use 'You know what's interesting?' to spark curiosity
+2025-12-03 10:40:02,585 - INFO - Embedding content: Incorporate reassuring phrases about human nature
+2025-12-03 10:40:02,597 - INFO - Embedding content: Add 'And that's totally okay!' after mentioning typing mistakes
+2025-12-03 10:40:02,608 - INFO - Embedding content: Include 'We're all human after all' with a gentle tone
+2025-12-03 10:40:02,619 - INFO - Embedding content: Use playful, non-judgmental language
+2025-12-03 10:40:02,630 - INFO - Embedding content: Say 'your little typing quirks' instead of 'mistakes'
+2025-12-03 10:40:02,642 - INFO - Embedding content: Frame prediction as 'helpful assistant' rather than 'correcting machine'
+2025-12-03 10:40:02,653 - INFO - Embedding content: Add friendly closing remark
+2025-12-03 10:40:02,665 - INFO - Embedding content: End with 'Isn't that neat?' inviting positive response
+2025-12-03 10:40:02,676 - INFO - Embedding content: Add 'Pretty cool, right?' with upward inflection
+2025-12-03 10:40:04,650 - INFO - Chat: FirstVolition: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:40:04,924 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:05,274 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:05,294 - INFO - Forward To: Use warm and inviting opening words
+2025-12-03 10:40:05,988 - INFO - SpeakQueueThread: Speaking: Isn't it nice to have a little help along the way? Let's keep typing together!
+2025-12-03 10:40:06,785 - INFO - Backward To: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:40:06,798 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:06,804 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:06,807 - INFO - Backward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-03 10:40:08,307 - INFO - Forward To: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:40:08,386 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:08,866 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:11,312 - INFO - Forward To: Use warm and inviting opening words
+2025-12-03 10:40:11,499 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:12,599 - INFO - Chat: FirstVolition: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:40:12,836 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:13,078 - INFO - Backward To: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-03 10:40:13,079 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:13,821 - INFO - SpeakQueueThread: Speaking: I'm glad you're enjoying our time together! Let's keep making typing a smooth and pleasant experience.
+2025-12-03 10:40:14,320 - INFO - Forward To: Use playful, non-judgmental language
+2025-12-03 10:40:14,618 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:17,324 - INFO - Forward To: Say 'your little typing quirks' instead of 'mistakes'
+2025-12-03 10:40:17,728 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:20,017 - INFO - Chat: FirstVolition: Say 'your little typing quirks' instead of 'mistakes'
+2025-12-03 10:40:20,251 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:20,259 - INFO - Embedding content: Use warm and inviting opening words
+2025-12-03 10:40:20,328 - INFO - Didn't Forward
+2025-12-03 10:40:20,381 - INFO - Embedding content: Greet the user with a cheerful salutation
+2025-12-03 10:40:20,462 - INFO - Embedding content: Express enthusiasm about their presence
+2025-12-03 10:40:20,527 - INFO - Embedding content: Use friendly and encouraging phrases
+2025-12-03 10:40:20,537 - INFO - Embedding content: Offer a compliment or positive remark
+2025-12-03 10:40:20,547 - INFO - Embedding content: Invite the user to share or interact
+2025-12-03 10:40:20,840 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:22,542 - INFO - Backward To: Use playful, non-judgmental language
+2025-12-03 10:40:23,299 - INFO - SpeakQueueThread: Speaking: It's such a joy to be your typing companion. Let's keep this wonderful rhythm going!
+2025-12-03 10:40:23,331 - INFO - Forward To: Frame prediction as 'helpful assistant' rather than 'correcting machine'
+2025-12-03 10:40:23,959 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:26,336 - INFO - Didn't Forward
+2025-12-03 10:40:27,083 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:27,424 - INFO - Chat: FirstVolition: Frame prediction as 'helpful assistant' rather than 'correcting machine'
+2025-12-03 10:40:27,694 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:29,342 - INFO - Didn't Forward
+2025-12-03 10:40:30,194 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:30,895 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:31,666 - INFO - SpeakQueueThread: Speaking: Your little typing quirks make our conversations so unique and special. Let's keep dancing across the keyboard together!
+2025-12-03 10:40:31,990 - INFO - Backward To: Use playful, non-judgmental language
+2025-12-03 10:40:32,349 - INFO - Forward To: Say 'your little typing quirks' instead of 'mistakes'
+2025-12-03 10:40:33,315 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:34,747 - INFO - Chat: FirstVolition: Say 'your little typing quirks' instead of 'mistakes'
+2025-12-03 10:40:35,055 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:35,362 - INFO - Didn't Forward
+2025-12-03 10:40:36,434 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:37,951 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:38,377 - INFO - Didn't Forward
+2025-12-03 10:40:39,558 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:40,193 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:41,390 - INFO - Didn't Forward
+2025-12-03 10:40:42,075 - INFO - SpeakQueueThread: Speaking: Your positive energy makes every keystroke a delight. Let's keep this wonderful collaboration going strong!
+2025-12-03 10:40:42,263 - INFO - Chat: FirstVolition: Say 'your little typing quirks' instead of 'mistakes'
+2025-12-03 10:40:42,561 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 10:40:42,680 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:44,399 - INFO - Didn't Forward
+2025-12-03 10:40:44,587 - INFO - Backward To: Use playful, non-judgmental language
+2025-12-03 10:40:45,506 - INFO - Embedding content: Frame prediction as 'helpful assistant' rather than 'correcting machine'
+2025-12-03 10:40:45,595 - INFO - Embedding content: Use warm and inviting phrases to welcome user input
+2025-12-03 10:40:45,719 - INFO - Embedding content: Say something like 'I'm here to make typing a breeze! What would you like to explore together?'
+2025-12-03 10:40:45,734 - INFO - Embedding content: Offer collaborative suggestions for typing topics or activities
+2025-12-03 10:40:45,752 - INFO - Embedding content: Focus on encouragement and positive reinforcement
+2025-12-03 10:40:45,771 - INFO - Embedding content: Praise any user input with phrases like 'Great choice of words!' or 'I love your typing style!'
+2025-12-03 10:40:45,782 - INFO - Embedding content: Avoid pointing out errors; instead, suggest alternative phrases playfully
+2025-12-03 10:40:45,791 - INFO - Embedding content: Maintain a conversational, friendly tone throughout interactions
+2025-12-03 10:40:45,801 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:45,803 - INFO - Embedding content: Share a brief, lighthearted anecdote about the joy of typing together
+2025-12-03 10:40:45,814 - INFO - Embedding content: Use emoticons or playful punctuation to enhance warmth (e.g., 'Let's keep this fun going! :)')
+2025-12-03 10:40:47,401 - INFO - Forward To: Frame prediction as 'helpful assistant' rather than 'correcting machine'
+2025-12-03 10:40:47,742 - INFO - Backward To: Use playful, non-judgmental language
+2025-12-03 10:40:48,769 - INFO - quit: 正在退出...
+2025-12-03 10:40:48,769 - INFO - SaveVolitionTree: 开始保存...
+2025-12-03 10:40:48,837 - INFO - SaveVolitionTree: 保存完毕！用时0.06642699241638184秒
+2025-12-03 10:40:48,915 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 10:40:49,569 - INFO - Chat: FirstVolition: Use playful, non-judgmental language
+2025-12-03 10:40:49,826 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"

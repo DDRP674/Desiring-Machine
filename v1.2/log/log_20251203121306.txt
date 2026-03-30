@@ -1,0 +1,52 @@
+2025-12-03 12:13:06,621 - INFO - Embedding content: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:13:06,634 - INFO - __init__: 树初始化完毕
+2025-12-03 12:13:06,651 - INFO - Didn't Forward
+2025-12-03 12:13:08,663 - INFO - [System] Hardware connected on COM3 (High Speed Mode)
+2025-12-03 12:13:08,693 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:09,668 - INFO - Didn't Forward
+2025-12-03 12:13:11,818 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:12,674 - INFO - Didn't Forward
+2025-12-03 12:13:13,913 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:13:14,312 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:13:14,937 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:15,547 - INFO - SpeakQueueThread: Speaking: Go away!
+2025-12-03 12:13:15,687 - INFO - Didn't Forward
+2025-12-03 12:13:17,177 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:13:18,061 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:18,699 - INFO - Didn't Forward
+2025-12-03 12:13:20,768 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:13:21,021 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:13:21,186 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:21,713 - INFO - Didn't Forward
+2025-12-03 12:13:22,346 - INFO - SpeakQueueThread: Speaking: Don't come any closer!
+2025-12-03 12:13:24,309 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:24,725 - INFO - Didn't Forward
+2025-12-03 12:13:27,428 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:27,460 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:13:27,687 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:13:27,725 - INFO - Didn't Forward
+2025-12-03 12:13:29,267 - INFO - SpeakQueueThread: Speaking: Stay back! This chair is off-limits.
+2025-12-03 12:13:29,976 - INFO - Embedding content: Make anyone go away and don't sit on the chair in front of me
+2025-12-03 12:13:29,987 - INFO - Embedding content: Verbally warn people to stay away from my area
+2025-12-03 12:13:29,997 - INFO - Embedding content: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:13:30,007 - INFO - Embedding content: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:13:30,017 - INFO - Embedding content: Create psychological barriers to deter people
+2025-12-03 12:13:30,027 - INFO - Embedding content: Make loud mechanical noises to annoy people
+2025-12-03 12:13:30,038 - INFO - Embedding content: Recite random disturbing facts about personal space invasion
+2025-12-03 12:13:30,048 - INFO - Embedding content: Escalate warnings if people don't comply
+2025-12-03 12:13:30,058 - INFO - Embedding content: Threaten to activate 'annoyance protocols' if people don't move away
+2025-12-03 12:13:30,068 - INFO - Embedding content: Start counting down loudly from 10 when someone gets too close
+2025-12-03 12:13:30,539 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:30,728 - INFO - Forward To: Verbally warn people to stay away from my area
+2025-12-03 12:13:33,661 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:33,738 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:13:34,498 - INFO - Chat: FirstVolition: Verbally warn people to stay away from my area
+2025-12-03 12:13:34,733 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:13:35,991 - INFO - SpeakQueueThread: Speaking: I said stay away! Don't make me repeat myself.
+2025-12-03 12:13:36,752 - INFO - Didn't Forward
+2025-12-03 12:13:36,783 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:13:37,835 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:13:38,169 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:13:38,215 - INFO - quit: 正在退出...
+2025-12-03 12:13:38,215 - INFO - SaveVolitionTree: 开始保存...
+2025-12-03 12:13:38,224 - INFO - SaveVolitionTree: 保存完毕！用时0.008536100387573242秒

@@ -1,0 +1,15 @@
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+PyQt5>=5.15.0
+numpy>=1.24.0
+gevent>=22.10.0
+pyttsx3>=2.90
+edge-tts>=6.1.0
+pydub>=0.25.1
+pyserial>=3.5
+anytree>=2.8.0
+keyboard>=0.13.5
+greenlet>=2.0.0
+openai>=0.27.0
+pygame>=2.1.0
+pywin32>=305

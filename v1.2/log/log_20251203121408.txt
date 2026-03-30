@@ -1,0 +1,598 @@
+2025-12-03 12:14:08,902 - INFO - __init__: 树初始化完毕
+2025-12-03 12:14:08,918 - INFO - Didn't Forward
+2025-12-03 12:14:10,931 - INFO - [System] Hardware connected on COM3 (High Speed Mode)
+2025-12-03 12:14:10,965 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:11,928 - INFO - Didn't Forward
+2025-12-03 12:14:14,073 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:14,943 - INFO - Didn't Forward
+2025-12-03 12:14:16,187 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:14:16,496 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:17,186 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:17,671 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:14:17,949 - INFO - Didn't Forward
+2025-12-03 12:14:20,307 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:20,962 - INFO - Didn't Forward
+2025-12-03 12:14:22,893 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:14:23,149 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:23,433 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:23,975 - INFO - Didn't Forward
+2025-12-03 12:14:24,597 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:14:24,767 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:14:26,557 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:26,989 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:14:29,666 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:29,822 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:14:29,991 - INFO - Didn't Forward
+2025-12-03 12:14:30,110 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:31,471 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:14:32,788 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:33,006 - INFO - Didn't Forward
+2025-12-03 12:14:34,217 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:14:35,911 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:36,018 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:14:36,700 - INFO - Chat: FirstVolition: Verbally warn people to stay away from my area
+2025-12-03 12:14:37,008 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:38,661 - INFO - SpeakQueueThread: Speaking: Keep moving! This area requires a safe distance!
+2025-12-03 12:14:39,021 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:39,021 - INFO - Didn't Forward
+2025-12-03 12:14:40,043 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:40,807 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:42,036 - INFO - Didn't Forward
+2025-12-03 12:14:42,144 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:43,657 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:14:43,892 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:14:44,225 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:45,051 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:14:45,254 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:45,951 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:14:48,053 - INFO - Didn't Forward
+2025-12-03 12:14:48,378 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:50,945 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:14:51,068 - INFO - Didn't Forward
+2025-12-03 12:14:51,241 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:51,492 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:52,533 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:14:53,096 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:14:54,078 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:14:54,606 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:57,082 - INFO - Didn't Forward
+2025-12-03 12:14:57,715 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:14:57,716 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:14:58,012 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:14:59,288 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:15:00,097 - INFO - Didn't Forward
+2025-12-03 12:15:00,831 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:15:03,112 - INFO - Didn't Forward
+2025-12-03 12:15:03,956 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:04,517 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:15:04,759 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:06,127 - INFO - Didn't Forward
+2025-12-03 12:15:06,158 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:15:07,075 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:09,129 - INFO - Didn't Forward
+2025-12-03 12:15:10,188 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:11,306 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:11,386 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:15:11,763 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:11,976 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:15:12,132 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:15:12,221 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:13,097 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:15:13,298 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:15,138 - INFO - Didn't Forward
+2025-12-03 12:15:16,413 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:15:18,145 - INFO - Didn't Forward
+2025-12-03 12:15:18,314 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:15:18,617 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:19,532 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:15:20,296 - INFO - SpeakQueueThread: Speaking: Keep away! That seat is off-limits due to contamination!
+2025-12-03 12:15:21,153 - INFO - Didn't Forward
+2025-12-03 12:15:21,417 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:15:22,645 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:15:24,155 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:15:25,524 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:15:25,770 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:25,781 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:27,169 - INFO - Didn't Forward
+2025-12-03 12:15:28,010 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:15:28,899 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:30,179 - INFO - Didn't Forward
+2025-12-03 12:15:32,012 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:32,275 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:15:32,531 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:33,187 - INFO - Didn't Forward
+2025-12-03 12:15:34,011 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:15:34,617 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:15:35,131 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:36,228 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:15:38,245 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:39,025 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:15:39,241 - INFO - Didn't Forward
+2025-12-03 12:15:39,276 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:40,317 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:15:41,239 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:15:41,365 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:15:42,254 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:15:42,402 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:43,458 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:43,461 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:15:44,490 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:15:45,269 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:15:45,784 - INFO - Chat: FirstVolition: Verbally warn people to stay away from my area
+2025-12-03 12:15:46,005 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:47,603 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:15:47,883 - INFO - SpeakQueueThread: Speaking: Warning! Personal space perimeter active. Please maintain distance.
+2025-12-03 12:15:48,272 - INFO - Didn't Forward
+2025-12-03 12:15:49,757 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:15:50,724 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:51,284 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:15:52,696 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:15:52,899 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:15:52,954 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:15:53,844 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:54,294 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:15:56,047 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:15:56,840 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:15:56,967 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:15:57,308 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:15:59,750 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:16:00,053 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:00,092 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:16:00,313 - INFO - Didn't Forward
+2025-12-03 12:16:03,216 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:03,326 - INFO - Didn't Forward
+2025-12-03 12:16:03,544 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:16:06,337 - INFO - Didn't Forward
+2025-12-03 12:16:06,337 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:16:06,836 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:16:07,134 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:08,656 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:16:09,348 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:16:09,457 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:09,989 - INFO - SpeakQueueThread: Speaking: Stay back! That area is off-limits!
+2025-12-03 12:16:11,811 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:16:12,358 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:16:12,575 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:13,556 - INFO - Chat: FirstVolition: Verbally warn people to stay away from my area
+2025-12-03 12:16:13,811 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:13,941 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:14,829 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:15,370 - INFO - Didn't Forward
+2025-12-03 12:16:15,696 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:16,586 - INFO - SpeakQueueThread: Speaking: Stay back! This area is for authorized personnel only.
+2025-12-03 12:16:18,386 - INFO - Didn't Forward
+2025-12-03 12:16:18,810 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:20,362 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:16:20,586 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:21,400 - INFO - Didn't Forward
+2025-12-03 12:16:21,932 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:24,198 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:16:24,416 - INFO - Didn't Forward
+2025-12-03 12:16:24,417 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:16:25,049 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:27,424 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:16:27,439 - INFO - Chat: FirstVolition: Verbally warn people to stay away from my area
+2025-12-03 12:16:27,755 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:28,167 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:30,439 - INFO - Didn't Forward
+2025-12-03 12:16:30,779 - INFO - SpeakQueueThread: Speaking: Stay back! This is a high-security zone!
+2025-12-03 12:16:31,287 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:33,448 - INFO - Didn't Forward
+2025-12-03 12:16:34,291 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:16:34,400 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:34,529 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:36,457 - INFO - Didn't Forward
+2025-12-03 12:16:37,294 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:16:37,512 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:16:39,465 - INFO - Didn't Forward
+2025-12-03 12:16:40,624 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:16:41,374 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:16:41,667 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:42,477 - INFO - Didn't Forward
+2025-12-03 12:16:43,757 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:16:43,973 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:16:45,129 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:45,493 - INFO - Didn't Forward
+2025-12-03 12:16:46,188 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:46,875 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:16:48,162 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:16:48,418 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:48,499 - INFO - Didn't Forward
+2025-12-03 12:16:49,991 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:16:50,737 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:16:51,505 - INFO - Didn't Forward
+2025-12-03 12:16:52,750 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:16:53,109 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:54,510 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:16:54,758 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:16:54,980 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:16:56,234 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:16:57,422 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:16:57,517 - INFO - Didn't Forward
+2025-12-03 12:16:59,350 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:00,522 - INFO - Didn't Forward
+2025-12-03 12:17:01,267 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:17:01,523 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:02,476 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:03,529 - INFO - Didn't Forward
+2025-12-03 12:17:04,135 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:17:05,600 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:06,626 - INFO - Didn't Forward
+2025-12-03 12:17:08,206 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:17:08,467 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:08,716 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:09,630 - INFO - Didn't Forward
+2025-12-03 12:17:10,644 - INFO - SpeakQueueThread: Speaking: I said, no sitting! That chair is off-limits!
+2025-12-03 12:17:11,667 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:17:11,837 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:12,634 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:17:14,949 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:15,321 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:17:15,598 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:15,647 - INFO - Didn't Forward
+2025-12-03 12:17:16,117 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:17,444 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:17,801 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone! Seriously, back up!
+2025-12-03 12:17:18,067 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:18,653 - INFO - Didn't Forward
+2025-12-03 12:17:21,189 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:21,656 - INFO - Didn't Forward
+2025-12-03 12:17:22,391 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:17:22,656 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:24,312 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:24,668 - INFO - Didn't Forward
+2025-12-03 12:17:27,411 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:17:27,427 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:27,678 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:17:27,757 - INFO - SpeakQueueThread: Speaking: Hey, give me some space! Personal bubble—do not pop it!
+2025-12-03 12:17:29,283 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:17:29,576 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:30,541 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:30,557 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:17:30,682 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:17:33,663 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:33,694 - INFO - Didn't Forward
+2025-12-03 12:17:35,510 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:17:36,303 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:17:36,563 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:36,695 - INFO - Didn't Forward
+2025-12-03 12:17:36,774 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:36,851 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:17:39,697 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:17:39,897 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:41,939 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:17:42,703 - INFO - Didn't Forward
+2025-12-03 12:17:43,015 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:43,395 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:17:43,620 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:45,708 - INFO - Didn't Forward
+2025-12-03 12:17:46,141 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:47,140 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:48,425 - INFO - SpeakQueueThread: Speaking: Hey, step back! I said personal space—respect it!
+2025-12-03 12:17:48,608 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:48,722 - INFO - Didn't Forward
+2025-12-03 12:17:49,251 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:50,448 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:17:50,710 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:51,736 - INFO - Didn't Forward
+2025-12-03 12:17:52,361 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:54,746 - INFO - Didn't Forward
+2025-12-03 12:17:55,474 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:17:55,755 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:17:56,019 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone! Seriously, back up!
+2025-12-03 12:17:57,345 - INFO - Chat: FirstVolition: Verbally warn people to stay away from my area
+2025-12-03 12:17:57,540 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:17:57,749 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:17:58,588 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:00,766 - INFO - Didn't Forward
+2025-12-03 12:18:01,698 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:03,781 - INFO - Didn't Forward
+2025-12-03 12:18:04,361 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:04,628 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:04,813 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:05,176 - INFO - SpeakQueueThread: Speaking: Okay, I hear you. I'll just take a step back myself. Have a good day.
+2025-12-03 12:18:06,794 - INFO - Didn't Forward
+2025-12-03 12:18:07,937 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:09,796 - INFO - Didn't Forward
+2025-12-03 12:18:11,053 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:11,488 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:18:11,801 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:12,043 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:12,811 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:14,175 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:14,409 - INFO - SpeakQueueThread: Speaking: Hey, I get it. I'll tone it down. Just please keep a little distance from the chair.
+2025-12-03 12:18:15,821 - INFO - Didn't Forward
+2025-12-03 12:18:17,297 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:18,275 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:18,837 - INFO - Didn't Forward
+2025-12-03 12:18:19,743 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:19,747 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:20,030 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:20,418 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:20,945 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:18:21,842 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:23,535 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:23,986 - INFO - SpeakQueueThread: Speaking: Hey, I understand. I'll keep my distance from the chair. Just a heads-up—please don't sit there.
+2025-12-03 12:18:24,856 - INFO - Didn't Forward
+2025-12-03 12:18:26,652 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:18:27,012 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:27,242 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:18:27,281 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:27,864 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:29,769 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:18:30,389 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:18:30,872 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:18:32,889 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:18:33,911 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:18:33,911 - INFO - Didn't Forward
+2025-12-03 12:18:34,130 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:34,667 - INFO - SpeakQueueThread: Speaking: Hey, I see you there. Just so you know—that chair’s not safe. Please keep your distance.
+2025-12-03 12:18:36,004 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:36,915 - INFO - Didn't Forward
+2025-12-03 12:18:39,122 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:18:39,838 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:18:39,930 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:18:40,789 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:18:41,086 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:42,236 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:18:42,937 - INFO - Didn't Forward
+2025-12-03 12:18:45,350 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:45,396 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated! Please stay clear.
+2025-12-03 12:18:45,939 - INFO - Didn't Forward
+2025-12-03 12:18:46,140 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:18:47,630 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:18:47,867 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:48,468 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:48,948 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:49,494 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:50,951 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:51,587 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:51,958 - INFO - Didn't Forward
+2025-12-03 12:18:53,826 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:18:54,385 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:18:54,651 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:18:54,710 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:54,971 - INFO - Didn't Forward
+2025-12-03 12:18:57,826 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:18:57,981 - INFO - Didn't Forward
+2025-12-03 12:19:00,484 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:19:00,951 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:00,996 - INFO - Didn't Forward
+2025-12-03 12:19:01,607 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:19:01,857 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:04,011 - INFO - Didn't Forward
+2025-12-03 12:19:04,073 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:07,018 - INFO - Didn't Forward
+2025-12-03 12:19:07,050 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:19:07,191 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:08,781 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:19:09,011 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:10,025 - INFO - Didn't Forward
+2025-12-03 12:19:10,303 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:13,037 - INFO - Didn't Forward
+2025-12-03 12:19:13,425 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:13,847 - INFO - SpeakQueueThread: Speaking: Hey, step away from that chair! It's not safe to be near it.
+2025-12-03 12:19:14,579 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:19:15,359 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:19:15,604 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:16,038 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:16,549 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:19,055 - INFO - Didn't Forward
+2025-12-03 12:19:19,658 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:20,824 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:21,572 - INFO - SpeakQueueThread: Speaking: Warning! Contaminated area detected. Maintain a safe distance immediately.
+2025-12-03 12:19:21,991 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:22,068 - INFO - Didn't Forward
+2025-12-03 12:19:22,221 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:22,603 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:22,771 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:25,071 - INFO - Didn't Forward
+2025-12-03 12:19:25,892 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:27,181 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:19:28,080 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:19:28,806 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:29,008 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:29,044 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:31,047 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:19:31,095 - INFO - Didn't Forward
+2025-12-03 12:19:32,124 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:33,482 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:19:34,101 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:35,237 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:35,786 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:36,057 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:37,113 - INFO - Didn't Forward
+2025-12-03 12:19:37,563 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:19:38,346 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:40,120 - INFO - Didn't Forward
+2025-12-03 12:19:41,472 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:42,542 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:42,820 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:43,127 - INFO - Didn't Forward
+2025-12-03 12:19:44,076 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:19:44,592 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:46,076 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:19:46,139 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:47,717 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:49,151 - INFO - Didn't Forward
+2025-12-03 12:19:49,527 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:49,767 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:50,693 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:19:50,834 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:51,790 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:52,155 - INFO - Didn't Forward
+2025-12-03 12:19:53,948 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:53,995 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:55,161 - INFO - Didn't Forward
+2025-12-03 12:19:56,591 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:19:56,839 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:19:57,058 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:19:57,293 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:19:58,169 - INFO - Didn't Forward
+2025-12-03 12:19:58,666 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:20:00,179 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:01,205 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:01,809 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:20:03,298 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:03,844 - INFO - SpeakQueueThread: Speaking: Hey! Keep your distance, please.
+2025-12-03 12:20:04,218 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:20:04,672 - INFO - Chat: FirstVolition: Verbally warn people to stay away from my area
+2025-12-03 12:20:04,947 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:04,965 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:20:06,415 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:07,225 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:20:08,123 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:20:09,533 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:09,970 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:20:10,235 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:11,808 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:12,074 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:12,647 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:13,241 - INFO - Didn't Forward
+2025-12-03 12:20:14,423 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:20:15,770 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:16,249 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:16,667 - INFO - SpeakQueueThread: Speaking: Hey! I said stay back!
+2025-12-03 12:20:17,568 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:20:18,890 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:19,108 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:19,265 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:19,400 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:22,014 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:22,279 - INFO - Didn't Forward
+2025-12-03 12:20:22,402 - INFO - SpeakQueueThread: Speaking: I need my space, please step back!
+2025-12-03 12:20:22,935 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:25,127 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:25,281 - INFO - Didn't Forward
+2025-12-03 12:20:25,357 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:25,963 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:26,200 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:27,845 - INFO - SpeakQueueThread: Speaking: Hey! I said stay back!
+2025-12-03 12:20:28,237 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:28,283 - INFO - Didn't Forward
+2025-12-03 12:20:31,285 - INFO - Didn't Forward
+2025-12-03 12:20:31,362 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:32,543 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:32,831 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:33,440 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:20:34,298 - INFO - Didn't Forward
+2025-12-03 12:20:34,484 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:37,299 - INFO - Didn't Forward
+2025-12-03 12:20:37,608 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:39,492 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:39,763 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:40,173 - INFO - SpeakQueueThread: Speaking: I said stay back! Don't come any closer!
+2025-12-03 12:20:40,313 - INFO - Didn't Forward
+2025-12-03 12:20:40,722 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:43,318 - INFO - Didn't Forward
+2025-12-03 12:20:43,844 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:46,254 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:46,331 - INFO - Didn't Forward
+2025-12-03 12:20:46,538 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:46,690 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:20:46,954 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:49,341 - INFO - Didn't Forward
+2025-12-03 12:20:50,069 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:52,193 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:20:52,350 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:20:53,083 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:20:53,190 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:53,340 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:53,520 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:20:54,515 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:55,355 - INFO - Didn't Forward
+2025-12-03 12:20:56,302 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:56,624 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:20:58,359 - INFO - Didn't Forward
+2025-12-03 12:20:59,420 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:20:59,868 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:21:00,117 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:00,258 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:21:01,362 - INFO - Didn't Forward
+2025-12-03 12:21:01,626 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:21:02,544 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:04,376 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:21:05,668 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:06,771 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:21:06,955 - INFO - SpeakQueueThread: Speaking: Stay back, I need my space!
+2025-12-03 12:21:07,062 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:07,391 - INFO - Didn't Forward
+2025-12-03 12:21:08,779 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:10,398 - INFO - Didn't Forward
+2025-12-03 12:21:11,893 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:12,286 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:21:13,412 - INFO - Didn't Forward
+2025-12-03 12:21:13,581 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:21:13,804 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:15,015 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:16,424 - INFO - Didn't Forward
+2025-12-03 12:21:17,387 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:21:18,131 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:18,773 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:21:19,428 - INFO - Forward To: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:21:20,301 - INFO - Chat: FirstVolition: Verbally warn people to stay away from my area
+2025-12-03 12:21:20,566 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:21,250 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:22,430 - INFO - Didn't Forward
+2025-12-03 12:21:24,370 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:21:25,351 - INFO - SpeakQueueThread: Speaking: Hey, keep your distance, okay? Personal bubble here!
+2025-12-03 12:21:25,430 - INFO - Didn't Forward
+2025-12-03 12:21:25,751 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:27,272 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:21:27,484 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:27,522 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:28,075 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:28,445 - INFO - Didn't Forward
+2025-12-03 12:21:30,597 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:31,464 - INFO - Didn't Forward
+2025-12-03 12:21:32,757 - INFO - SpeakQueueThread: Speaking: Back off! My space, my rules!
+2025-12-03 12:21:33,723 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:33,975 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:21:34,265 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:34,581 - INFO - Didn't Forward
+2025-12-03 12:21:36,847 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:21:37,703 - INFO - Didn't Forward
+2025-12-03 12:21:39,171 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:21:39,966 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:40,640 - INFO - Chat: FirstVolition: Say 'Stay back! This is my personal space zone!' in an annoyed tone
+2025-12-03 12:21:40,823 - INFO - Didn't Forward
+2025-12-03 12:21:40,922 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:43,091 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:43,834 - INFO - Didn't Forward
+2025-12-03 12:21:45,729 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:21:45,791 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:21:46,104 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:46,850 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:21:47,812 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:21:48,060 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:49,222 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:49,859 - INFO - Didn't Forward
+2025-12-03 12:21:52,347 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:52,517 - INFO - SpeakQueueThread: Speaking: Stay back! This is my personal space zone!
+2025-12-03 12:21:52,873 - INFO - Didn't Forward
+2025-12-03 12:21:54,823 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:21:55,084 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:55,469 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:55,874 - INFO - Didn't Forward
+2025-12-03 12:21:56,954 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:21:58,594 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:21:58,887 - INFO - Didn't Forward
+2025-12-03 12:21:59,187 - INFO - SpeakQueueThread: Speaking: No sitting! That chair is contaminated!
+2025-12-03 12:21:59,226 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:22:01,708 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:22:01,723 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:22:01,895 - INFO - Didn't Forward
+2025-12-03 12:22:01,938 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:22:04,605 - INFO - Backward To: Verbally warn people to stay away from my area
+2025-12-03 12:22:04,824 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:22:04,906 - INFO - Forward To: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:22:05,618 - INFO - SpeakQueueThread: Speaking: Back away! That chair is off-limits!
+2025-12-03 12:22:07,922 - INFO - Didn't Forward
+2025-12-03 12:22:07,937 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:22:08,674 - INFO - Chat: FirstVolition: Shout 'No sitting! That chair is contaminated!' if someone approaches the chair
+2025-12-03 12:22:08,946 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:22:10,937 - INFO - Didn't Forward
+2025-12-03 12:22:11,062 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:22:12,056 - INFO - SpeakQueueThread: Speaking: Back away! This area is not for sitting!
+2025-12-03 12:22:13,941 - INFO - Didn't Forward
+2025-12-03 12:22:14,174 - INFO - MainThread: Sensor Negative Feedback

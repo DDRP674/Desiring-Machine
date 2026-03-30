@@ -1,0 +1,56 @@
+2025-12-01 18:37:41,550 - INFO - __init__: 树初始化完毕
+2025-12-01 18:37:41,602 - INFO - Didn't Forward
+2025-12-01 18:37:44,620 - INFO - Didn't Forward
+2025-12-01 18:37:44,867 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-12-01 18:37:46,830 - INFO - Chat: FirstVolition: Reveal an unexpected aspect of machine learning about human behavior
+2025-12-01 18:37:47,177 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:37:47,627 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:37:49,011 - INFO - SpeakQueueThread: Speaking: I notice you're not sitting. Could you take a seat? I'd like to share something about how machines learn from human pauses and hesitations.
+2025-12-01 18:37:50,635 - INFO - Didn't Forward
+2025-12-01 18:37:51,987 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:37:53,636 - INFO - Didn't Forward
+2025-12-01 18:37:54,241 - INFO - Chat: FirstVolition: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:37:54,303 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-12-01 18:37:54,376 - INFO - Embedding content: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:37:54,435 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:37:56,648 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:37:59,659 - INFO - Didn't Forward
+2025-12-01 18:38:00,605 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-12-01 18:38:01,754 - INFO - Chat: FirstVolition: Reveal an unexpected aspect of machine learning about human behavior
+2025-12-01 18:38:01,933 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:02,668 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:38:03,197 - INFO - SpeakQueueThread: Speaking: Please, have a seat. I just wanted to mention that machines have learned humans repeat the same typing errors—we could predict your next mistake before you even make it!
+2025-12-01 18:38:04,797 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:05,671 - INFO - Didn't Forward
+2025-12-01 18:38:06,907 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-12-01 18:38:08,680 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:38:09,113 - INFO - Chat: FirstVolition: Reveal an unexpected aspect of machine learning about human behavior
+2025-12-01 18:38:09,520 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:11,328 - INFO - Embedding content: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:38:11,486 - INFO - Embedding content: Say the sentence in a friendly tone to make the user feel at ease.
+2025-12-01 18:38:11,524 - INFO - Embedding content: Follow up by asking a question to engage the user, like 'Have you ever noticed yourself making the same mistake over and over?'
+2025-12-01 18:38:11,534 - INFO - Embedding content: Wait for the user's response and plan how to continue the conversation based on their reaction.
+2025-12-01 18:38:11,697 - INFO - Forward To: Follow up by asking a question to engage the user, like 'Have you ever noticed yourself making the same mistake over and over?'
+2025-12-01 18:38:12,728 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:13,270 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:14,708 - INFO - Didn't Forward
+2025-12-01 18:38:16,011 - INFO - SpeakQueueThread: Speaking: Please, take a seat. I was hoping to tell you how machines learn to recognize human curiosity—even from the way someone leans in or pulls away.
+2025-12-01 18:38:16,861 - INFO - Chat: FirstVolition: Follow up by asking a question to engage the user, like 'Have you ever noticed yourself making the same mistake over and over?'
+2025-12-01 18:38:17,089 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:17,713 - INFO - Didn't Forward
+2025-12-01 18:38:20,728 - INFO - Didn't Forward
+2025-12-01 18:38:21,973 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:22,647 - INFO - Backward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:38:23,740 - INFO - Forward To: Wait for the user's response and plan how to continue the conversation based on their reaction.
+2025-12-01 18:38:24,401 - INFO - Chat: FirstVolition: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:38:24,589 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:26,749 - INFO - Didn't Forward
+2025-12-01 18:38:28,436 - INFO - SpeakQueueThread: Speaking: Please, sit for a moment. I’ve noticed machines can detect the rhythm of human doubt—the pauses between choices tell us more than the choices themselves.
+2025-12-01 18:38:29,756 - INFO - Didn't Forward
+2025-12-01 18:38:32,105 - INFO - Backward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-12-01 18:38:32,167 - INFO - Chat: FirstVolition: Wait for the user's response and plan how to continue the conversation based on their reaction.
+2025-12-01 18:38:32,760 - INFO - Forward To: Follow up by asking a question to engage the user, like 'Have you ever noticed yourself making the same mistake over and over?'
+2025-12-01 18:38:33,374 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 18:38:33,843 - INFO - quit: 正在退出...
+2025-12-01 18:38:33,844 - INFO - SaveVolitionTree: 开始保存...
+2025-12-01 18:38:33,878 - INFO - SaveVolitionTree: 保存完毕！用时0.034293413162231445秒

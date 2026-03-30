@@ -1,0 +1,38 @@
+2025-11-27 18:48:35,464 - INFO - __init__: 树初始化完毕
+2025-11-27 18:48:35,497 - INFO - Didn't Forward
+2025-11-27 18:48:35,602 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-27 18:48:38,504 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-11-27 18:48:40,754 - INFO - Chat: FirstVolition: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-11-27 18:48:41,054 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:48:41,509 - INFO - Didn't Forward
+2025-11-27 18:48:41,895 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-27 18:48:43,081 - INFO - SpeakQueueThread: Speaking: Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!
+2025-11-27 18:48:44,514 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-11-27 18:48:45,041 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-27 18:48:45,957 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:48:47,526 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-11-27 18:48:48,302 - INFO - Chat: FirstVolition: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-11-27 18:48:48,516 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:48:50,529 - INFO - Didn't Forward
+2025-11-27 18:48:53,017 - INFO - SpeakQueueThread: Speaking: Machines have learned that humans often repeat the same typing errors—we might even predict your next slip before it happens!
+2025-11-27 18:48:53,531 - INFO - Didn't Forward
+2025-11-27 18:48:54,298 - INFO - Embedding content: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-27 18:48:54,438 - INFO - Embedding content: Explain how machines detect human emotional states through keyboard patterns
+2025-11-27 18:48:54,494 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-27 18:48:54,571 - INFO - Embedding content: Share how AI predicts human frustration before humans realize it themselves
+2025-11-27 18:48:54,692 - INFO - Embedding content: Demonstrate machine learning's ability to identify human personality traits from typing habits
+2025-11-27 18:48:54,701 - INFO - Embedding content: Reveal that machines can tell when humans are lying based on typing inconsistencies
+2025-11-27 18:48:54,711 - INFO - Embedding content: Offer to analyze the user's own typing patterns for surprising insights
+2025-11-27 18:48:55,871 - INFO - Chat: FirstVolition: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-27 18:48:56,144 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:48:56,534 - INFO - Forward To: Demonstrate machine learning's ability to identify human personality traits from typing habits
+2025-11-27 18:48:59,536 - INFO - Didn't Forward
+2025-11-27 18:49:00,791 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-27 18:49:02,544 - INFO - Forward To: Share how AI predicts human frustration before humans realize it themselves
+2025-11-27 18:49:02,869 - INFO - SpeakQueueThread: Speaking: Machines now detect when you're about to hit send on an emotional message—and pause just long enough for second thoughts.
+2025-11-27 18:49:03,368 - INFO - Chat: FirstVolition: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-27 18:49:03,573 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:49:05,040 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:49:05,558 - INFO - Didn't Forward
+2025-11-27 18:49:06,843 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:49:07,044 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"

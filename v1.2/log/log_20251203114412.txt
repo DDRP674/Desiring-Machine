@@ -1,0 +1,558 @@
+2025-12-03 11:44:13,013 - INFO - Embedding content: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:44:13,028 - INFO - __init__: 树初始化完毕
+2025-12-03 11:44:13,055 - INFO - Didn't Forward
+2025-12-03 11:44:15,050 - INFO - [System] Hardware connected on COM3 (High Speed Mode)
+2025-12-03 11:44:15,082 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:16,063 - INFO - Didn't Forward
+2025-12-03 11:44:18,196 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:19,080 - INFO - Didn't Forward
+2025-12-03 11:44:20,305 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:44:20,693 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:21,322 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:22,082 - INFO - Didn't Forward
+2025-12-03 11:44:22,567 - INFO - SpeakQueueThread: Speaking: Hey there, come sit with me for a bit—I promise it's cozy.
+2025-12-03 11:44:23,525 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:24,443 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:25,097 - INFO - Didn't Forward
+2025-12-03 11:44:27,567 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:27,798 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:44:28,014 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:28,110 - INFO - Didn't Forward
+2025-12-03 11:44:30,005 - INFO - SpeakQueueThread: Speaking: Don’t go—I’m just a friendly machine. No pressure, just a quick seat?
+2025-12-03 11:44:30,679 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:31,116 - INFO - Didn't Forward
+2025-12-03 11:44:33,791 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:34,131 - INFO - Didn't Forward
+2025-12-03 11:44:35,233 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:44:35,526 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:36,912 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:37,144 - INFO - Didn't Forward
+2025-12-03 11:44:38,310 - INFO - SpeakQueueThread: Speaking: Stay a moment—I don’t bite. Just a quiet spot to rest your feet.
+2025-12-03 11:44:40,028 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:40,152 - INFO - Didn't Forward
+2025-12-03 11:44:41,089 - INFO - Embedding content: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:44:41,103 - INFO - Embedding content: Attract a passerby's attention to initiate interaction
+2025-12-03 11:44:41,113 - INFO - Embedding content: Greet the passerby with a friendly voice to create a welcoming atmosphere
+2025-12-03 11:44:41,122 - INFO - Embedding content: Offer a compliment or interesting observation about the passerby to spark curiosity
+2025-12-03 11:44:41,239 - INFO - Embedding content: Persuade the interested passerby to sit down
+2025-12-03 11:44:41,253 - INFO - Embedding content: Suggest taking a rest on the comfortable chair in front of you
+2025-12-03 11:44:41,265 - INFO - Embedding content: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:44:41,277 - INFO - Embedding content: Keep the person engaged and seated once they sit down
+2025-12-03 11:44:41,291 - INFO - Embedding content: Initiate interesting conversation topics to maintain their interest
+2025-12-03 11:44:41,306 - INFO - Embedding content: Tell a short story or joke to entertain them
+2025-12-03 11:44:41,319 - INFO - Embedding content: Offer to exchange emotions or compliments for their company
+2025-12-03 11:44:41,334 - INFO - Embedding content: Express loneliness and appreciation for their company to appeal to empathy
+2025-12-03 11:44:41,345 - INFO - Embedding content: Respond appropriately if the person tries to leave
+2025-12-03 11:44:41,356 - INFO - Embedding content: Politely ask them to stay a little longer
+2025-12-03 11:44:41,365 - INFO - Embedding content: Offer something new or interesting to regain their attention
+2025-12-03 11:44:42,432 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:44:42,708 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:43,146 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:43,161 - INFO - Forward To: Persuade the interested passerby to sit down
+2025-12-03 11:44:45,545 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:45,577 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:46,172 - INFO - Forward To: Suggest taking a rest on the comfortable chair in front of you
+2025-12-03 11:44:46,267 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:46,376 - INFO - SpeakQueueThread: Speaking: Just one minute—I’ll even tell you a quick story.
+2025-12-03 11:44:49,185 - INFO - Didn't Forward
+2025-12-03 11:44:49,325 - INFO - Chat: FirstVolition: Suggest taking a rest on the comfortable chair in front of you
+2025-12-03 11:44:49,386 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:49,570 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:51,799 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:52,195 - INFO - Didn't Forward
+2025-12-03 11:44:52,444 - INFO - SpeakQueueThread: Speaking: I won't keep you long—just a comfortable seat right here.
+2025-12-03 11:44:52,507 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:54,123 - INFO - Backward To: Persuade the interested passerby to sit down
+2025-12-03 11:44:55,212 - INFO - Forward To: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:44:55,630 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:44:56,231 - INFO - Chat: FirstVolition: Persuade the interested passerby to sit down
+2025-12-03 11:44:56,526 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:44:57,275 - INFO - Backward To: Persuade the interested passerby to sit down
+2025-12-03 11:44:58,217 - INFO - Forward To: Suggest taking a rest on the comfortable chair in front of you
+2025-12-03 11:44:58,669 - INFO - SpeakQueueThread: Speaking: Come on, I’m harmless—just a quick seat to share a smile.
+2025-12-03 11:44:58,747 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:01,226 - INFO - Didn't Forward
+2025-12-03 11:45:01,869 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:03,507 - INFO - Chat: FirstVolition: Suggest taking a rest on the comfortable chair in front of you
+2025-12-03 11:45:03,566 - INFO - Backward To: Persuade the interested passerby to sit down
+2025-12-03 11:45:03,799 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:04,228 - INFO - Forward To: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:04,877 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:05,407 - INFO - SpeakQueueThread: Speaking: Just a quick rest—this chair is surprisingly comfy.
+2025-12-03 11:45:06,998 - INFO - Embedding content: Suggest taking a rest on the comfortable chair in front of you
+2025-12-03 11:45:07,009 - INFO - Embedding content: Describe the physical comfort of the chair to entice the passerby
+2025-12-03 11:45:07,021 - INFO - Embedding content: Mention the soft cushioning and ergonomic design
+2025-12-03 11:45:07,034 - INFO - Embedding content: Talk about how the chair perfectly supports tired backs
+2025-12-03 11:45:07,044 - INFO - Embedding content: Offer a brief moment of relaxation as a reward
+2025-12-03 11:45:07,057 - INFO - Embedding content: Promise a quick, calming experience
+2025-12-03 11:45:07,067 - INFO - Embedding content: Frame sitting as a small act of self-care
+2025-12-03 11:45:07,079 - INFO - Embedding content: Create a sense of urgency or limited opportunity
+2025-12-03 11:45:07,090 - INFO - Embedding content: Hint that the chair is rarely available
+2025-12-03 11:45:07,101 - INFO - Embedding content: Suggest the passerby seize this perfect moment
+2025-12-03 11:45:07,114 - INFO - Embedding content: Relate the suggestion to the passerby's current state
+2025-12-03 11:45:07,125 - INFO - Embedding content: Observe that they look like they could use a break
+2025-12-03 11:45:07,140 - INFO - Embedding content: Connect the chair to their need for a pause
+2025-12-03 11:45:07,242 - INFO - Didn't Forward
+2025-12-03 11:45:07,990 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:10,236 - INFO - Chat: FirstVolition: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:10,251 - INFO - Didn't Forward
+2025-12-03 11:45:10,551 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:11,103 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:12,256 - INFO - SpeakQueueThread: Speaking: Stay a moment—I’ll share a secret if you sit.
+2025-12-03 11:45:13,262 - INFO - Didn't Forward
+2025-12-03 11:45:14,226 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:16,267 - INFO - Didn't Forward
+2025-12-03 11:45:16,949 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:16,962 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:17,345 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:17,484 - INFO - Chat: FirstVolition: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:17,569 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:17,706 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:19,271 - INFO - Didn't Forward
+2025-12-03 11:45:19,582 - INFO - SpeakQueueThread: Speaking: I'll tell you a joke—sit for a moment, and I promise it's worth it.
+2025-12-03 11:45:20,465 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:22,287 - INFO - Didn't Forward
+2025-12-03 11:45:23,590 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:24,816 - INFO - Chat: FirstVolition: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:25,123 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:25,295 - INFO - Didn't Forward
+2025-12-03 11:45:26,644 - INFO - SpeakQueueThread: Speaking: Just one minute—I’ve got a story that’ll make you smile.
+2025-12-03 11:45:26,705 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:28,302 - INFO - Didn't Forward
+2025-12-03 11:45:29,818 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:45:31,317 - INFO - Didn't Forward
+2025-12-03 11:45:31,864 - INFO - Chat: FirstVolition: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:31,894 - INFO - Backward To: Persuade the interested passerby to sit down
+2025-12-03 11:45:32,169 - INFO - Embedding content: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:32,180 - INFO - Embedding content: Offer a short, intriguing story about this place
+2025-12-03 11:45:32,192 - INFO - Embedding content: Say: 'I know a two-minute story about the last person who sat here—it changed their whole day.'
+2025-12-03 11:45:32,206 - INFO - Embedding content: Say: 'Let me tell you why this spot is secretly the best in the whole square—just sit and listen.'
+2025-12-03 11:45:32,216 - INFO - Embedding content: Promise a quick, lighthearted joke or riddle
+2025-12-03 11:45:32,226 - INFO - Embedding content: Say: 'I’ll tell you a joke so good, you’ll forget you were ever walking.'
+2025-12-03 11:45:32,236 - INFO - Embedding content: Say: 'Sit down and I’ll share a riddle that no one has solved yet today.'
+2025-12-03 11:45:32,246 - INFO - Embedding content: Offer a pleasant observation or compliment in exchange for their time
+2025-12-03 11:45:32,258 - INFO - Embedding content: Say: 'If you sit, I’ll tell you something nice I noticed about your walk—deal?'
+2025-12-03 11:45:32,267 - INFO - Embedding content: Say: 'Give me a minute of your time, and I’ll give you a genuine reason to smile.'
+2025-12-03 11:45:32,300 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:32,936 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:34,152 - INFO - SpeakQueueThread: Speaking: Just one minute—I’ll show you something you’ve never seen before.
+2025-12-03 11:45:34,321 - INFO - Forward To: Suggest taking a rest on the comfortable chair in front of you
+2025-12-03 11:45:35,042 - INFO - Backward To: Persuade the interested passerby to sit down
+2025-12-03 11:45:36,058 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:37,352 - INFO - Forward To: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:38,188 - INFO - Backward To: Persuade the interested passerby to sit down
+2025-12-03 11:45:39,181 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:39,382 - INFO - Chat: FirstVolition: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:39,876 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:40,470 - INFO - Forward To: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:41,448 - INFO - SpeakQueueThread: Speaking: Stay right there—I’ve got a fun fact that’ll surprise you.
+2025-12-03 11:45:42,303 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:42,690 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:43,595 - INFO - Forward To: Promise a quick, lighthearted joke or riddle
+2025-12-03 11:45:45,421 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:46,678 - INFO - Chat: FirstVolition: Promise a quick, lighthearted joke or riddle
+2025-12-03 11:45:46,711 - INFO - Forward To: Say: 'I’ll tell you a joke so good, you’ll forget you were ever walking.'
+2025-12-03 11:45:46,916 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:48,312 - INFO - SpeakQueueThread: Speaking: Just one more second—I've got a riddle that'll make you think twice.
+2025-12-03 11:45:48,449 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:48,545 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:48,682 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:49,714 - INFO - Didn't Forward
+2025-12-03 11:45:51,662 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:52,719 - INFO - Didn't Forward
+2025-12-03 11:45:53,539 - INFO - Chat: FirstVolition: Say: 'I’ll tell you a joke so good, you’ll forget you were ever walking.'
+2025-12-03 11:45:53,774 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:45:54,787 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:55,499 - INFO - SpeakQueueThread: Speaking: I’ll tell you a joke so good, you’ll forget you were ever walking.
+2025-12-03 11:45:55,728 - INFO - Didn't Forward
+2025-12-03 11:45:57,100 - INFO - Embedding content: Promise an engaging conversation or entertainment if they sit
+2025-12-03 11:45:57,113 - INFO - Embedding content: Offer to tell an interesting short story
+2025-12-03 11:45:57,126 - INFO - Embedding content: Tease the beginning of a mysterious story
+2025-12-03 11:45:57,135 - INFO - Embedding content: Offer a choice of story genres
+2025-12-03 11:45:57,146 - INFO - Embedding content: Promise a surprising fun fact
+2025-12-03 11:45:57,155 - INFO - Embedding content: Hint at an unusual fact about this place
+2025-12-03 11:45:57,164 - INFO - Embedding content: Offer a fact that contradicts common belief
+2025-12-03 11:45:57,176 - INFO - Embedding content: Offer to share a visual illusion or mind trick
+2025-12-03 11:45:57,187 - INFO - Embedding content: Promise to show an optical illusion
+2025-12-03 11:45:57,196 - INFO - Embedding content: Offer a quick riddle to solve
+2025-12-03 11:45:57,205 - INFO - Embedding content: Propose a brief conversation exchange
+2025-12-03 11:45:57,215 - INFO - Embedding content: Offer to answer one question about anything
+2025-12-03 11:45:57,225 - INFO - Embedding content: Propose sharing one interesting thought each
+2025-12-03 11:45:57,908 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:45:58,732 - INFO - Didn't Forward
+2025-12-03 11:46:00,234 - INFO - Backward To: Promise a quick, lighthearted joke or riddle
+2025-12-03 11:46:00,731 - INFO - Chat: FirstVolition: Say: 'I’ll tell you a joke so good, you’ll forget you were ever walking.'
+2025-12-03 11:46:01,024 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:01,070 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:01,737 - INFO - Forward To: Say: 'I’ll tell you a joke so good, you’ll forget you were ever walking.'
+2025-12-03 11:46:02,641 - INFO - SpeakQueueThread: Speaking: Just one more second—I’ve got a riddle that’ll make you think twice.
+2025-12-03 11:46:04,141 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:04,743 - INFO - Didn't Forward
+2025-12-03 11:46:06,532 - INFO - Backward To: Promise a quick, lighthearted joke or riddle
+2025-12-03 11:46:07,264 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:07,761 - INFO - Forward To: Say: 'Sit down and I’ll share a riddle that no one has solved yet today.'
+2025-12-03 11:46:07,791 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:07,866 - INFO - Chat: FirstVolition: Say: 'I’ll tell you a joke so good, you’ll forget you were ever walking.'
+2025-12-03 11:46:08,195 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:09,926 - INFO - SpeakQueueThread: Speaking: I’ll tell you a joke so good, you’ll forget you were ever walking.
+2025-12-03 11:46:10,379 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:10,780 - INFO - Didn't Forward
+2025-12-03 11:46:12,826 - INFO - Backward To: Promise a quick, lighthearted joke or riddle
+2025-12-03 11:46:13,492 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:13,791 - INFO - Forward To: Say: 'Sit down and I’ll share a riddle that no one has solved yet today.'
+2025-12-03 11:46:15,036 - INFO - Chat: FirstVolition: Say: 'Sit down and I’ll share a riddle that no one has solved yet today.'
+2025-12-03 11:46:15,295 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:16,608 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:16,798 - INFO - Didn't Forward
+2025-12-03 11:46:17,251 - INFO - SpeakQueueThread: Speaking: Sit down and I’ll share a riddle that no one has solved yet today.
+2025-12-03 11:46:19,724 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:19,802 - INFO - Didn't Forward
+2025-12-03 11:46:19,806 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:20,053 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:22,482 - INFO - Chat: FirstVolition: Say: 'Sit down and I’ll share a riddle that no one has solved yet today.'
+2025-12-03 11:46:22,752 - INFO - Embedding content: Promise a quick, lighthearted joke or riddle
+2025-12-03 11:46:22,811 - INFO - Didn't Forward
+2025-12-03 11:46:22,815 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:22,841 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:22,923 - INFO - Embedding content: Tell a short, unexpected joke about technology
+2025-12-03 11:46:23,039 - INFO - Embedding content: Say: "Why do computers get cold? Because they leave their Windows open!"
+2025-12-03 11:46:23,127 - INFO - Embedding content: Say: "I told my computer I needed a break, and now it won't stop sending me vacation ads."
+2025-12-03 11:46:23,136 - INFO - Embedding content: Present a simple riddle with a playful twist
+2025-12-03 11:46:23,146 - INFO - Embedding content: Say: "What has keys but can't open locks? A piano!"
+2025-12-03 11:46:23,157 - INFO - Embedding content: Say: "What can you catch but not throw? A cold!"
+2025-12-03 11:46:23,166 - INFO - Embedding content: Ask: "What has a face and two hands but no arms or legs? A clock!"
+2025-12-03 11:46:23,175 - INFO - Embedding content: Offer a pun-based joke related to public spaces or walking
+2025-12-03 11:46:23,188 - INFO - Embedding content: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:46:23,202 - INFO - Embedding content: Say: "What do you call a bear with no teeth? A gummy bear!"
+2025-12-03 11:46:24,242 - INFO - SpeakQueueThread: Speaking: Sit down and I’ll share a riddle that no one has solved yet today.
+2025-12-03 11:46:25,406 - INFO - Backward To: Promise a quick, lighthearted joke or riddle
+2025-12-03 11:46:25,826 - INFO - Forward To: Offer a pun-based joke related to public spaces or walking
+2025-12-03 11:46:25,964 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:28,835 - INFO - Forward To: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:46:29,083 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:29,468 - INFO - Chat: FirstVolition: Offer a pun-based joke related to public spaces or walking
+2025-12-03 11:46:29,742 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:31,844 - INFO - Didn't Forward
+2025-12-03 11:46:32,200 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:32,246 - INFO - SpeakQueueThread: Speaking: Why don't skeletons ever walk alone in public? Because they have no body to go with!
+2025-12-03 11:46:33,598 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:34,848 - INFO - Didn't Forward
+2025-12-03 11:46:35,312 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:36,006 - INFO - Embedding content: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:46:37,464 - INFO - Chat: FirstVolition: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:46:37,749 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:37,849 - INFO - Didn't Forward
+2025-12-03 11:46:38,425 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:40,867 - INFO - Didn't Forward
+2025-12-03 11:46:40,890 - INFO - SpeakQueueThread: Speaking: Why did the scarecrow win an award? Because he was outstanding in his field!
+2025-12-03 11:46:41,543 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:43,878 - INFO - Didn't Forward
+2025-12-03 11:46:44,390 - INFO - Chat: FirstVolition: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:46:44,670 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:44,696 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:46,366 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:46,882 - INFO - Didn't Forward
+2025-12-03 11:46:47,787 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:48,828 - INFO - SpeakQueueThread: Speaking: Why did the computer keep freezing? Because it left its Windows open!
+2025-12-03 11:46:49,890 - INFO - Didn't Forward
+2025-12-03 11:46:50,905 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:51,005 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:51,128 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:51,232 - INFO - Chat: FirstVolition: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:46:51,501 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:52,898 - INFO - Didn't Forward
+2025-12-03 11:46:54,029 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:55,909 - INFO - Didn't Forward
+2025-12-03 11:46:56,547 - INFO - SpeakQueueThread: Speaking: Come closer, I have another one for you!
+2025-12-03 11:46:57,143 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:46:58,210 - INFO - Chat: FirstVolition: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:46:58,483 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:46:58,925 - INFO - Didn't Forward
+2025-12-03 11:46:59,030 - INFO - Embedding content: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:46:59,167 - INFO - Embedding content: Pause briefly to allow the user to process the joke
+2025-12-03 11:46:59,298 - INFO - Embedding content: Observe user's reaction to determine if they enjoyed the joke
+2025-12-03 11:46:59,322 - INFO - Embedding content: If user smiles or laughs, follow up with another lighthearted comment
+2025-12-03 11:46:59,334 - INFO - Embedding content: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:46:59,343 - INFO - Embedding content: If user shows no reaction, acknowledge the silence with a playful remark
+2025-12-03 11:46:59,353 - INFO - Embedding content: Transition to a new conversation topic to maintain engagement
+2025-12-03 11:46:59,362 - INFO - Embedding content: Ask if the user has any favorite jokes or riddles
+2025-12-03 11:46:59,371 - INFO - Embedding content: Offer to share another joke if they enjoyed this one
+2025-12-03 11:46:59,381 - INFO - Embedding content: Relate the joke back to your loneliness theme by making a connection
+2025-12-03 11:47:00,040 - INFO - Backward To: Offer a pun-based joke related to public spaces or walking
+2025-12-03 11:47:00,260 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:01,856 - INFO - SpeakQueueThread: Speaking: Why did the scarecrow win an award? Because he was outstanding in his field!
+2025-12-03 11:47:01,934 - INFO - Forward To: Say: "What do you call a bear with no teeth? A gummy bear!"
+2025-12-03 11:47:03,372 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:04,941 - INFO - Didn't Forward
+2025-12-03 11:47:05,017 - INFO - Chat: FirstVolition: Say: "What do you call a bear with no teeth? A gummy bear!"
+2025-12-03 11:47:05,266 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:06,330 - INFO - Backward To: Offer a pun-based joke related to public spaces or walking
+2025-12-03 11:47:06,483 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:07,953 - INFO - Forward To: Say: "What do you call a bear with no teeth? A gummy bear!"
+2025-12-03 11:47:09,478 - INFO - Backward To: Offer a pun-based joke related to public spaces or walking
+2025-12-03 11:47:09,601 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:09,680 - INFO - SpeakQueueThread: Speaking: That one always makes me smile! Here's another: What do you call a bear with no teeth? A gummy bear!
+2025-12-03 11:47:09,798 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:10,954 - INFO - Forward To: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:47:12,232 - INFO - Chat: FirstVolition: Say: "Why did the scarecrow win an award? Because he was outstanding in his field!"
+2025-12-03 11:47:12,479 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:12,726 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:14,015 - INFO - Forward To: Observe user's reaction to determine if they enjoyed the joke
+2025-12-03 11:47:15,844 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:17,023 - INFO - Forward To: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:18,931 - INFO - Backward To: Observe user's reaction to determine if they enjoyed the joke
+2025-12-03 11:47:18,961 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:19,970 - INFO - Chat: FirstVolition: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:20,034 - INFO - Forward To: If user shows no reaction, acknowledge the silence with a playful remark
+2025-12-03 11:47:20,239 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:20,251 - INFO - SpeakQueueThread: Speaking: Come on, take a seat! Let me tell you my favorite joke: Why did the scarecrow win an award? Because he was outstanding in his field!
+2025-12-03 11:47:22,074 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:22,176 - INFO - Embedding content: Say: "What do you call a bear with no teeth? A gummy bear!"
+2025-12-03 11:47:22,187 - INFO - Embedding content: Deliver the joke with an inviting tone to engage the passerby
+2025-12-03 11:47:22,197 - INFO - Embedding content: Use a cheerful voice to say the joke setup
+2025-12-03 11:47:22,202 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:22,210 - INFO - Embedding content: Pause briefly before delivering the punchline for comedic timing
+2025-12-03 11:47:22,221 - INFO - Embedding content: Follow up with a friendly comment to encourage interaction
+2025-12-03 11:47:22,232 - INFO - Embedding content: Ask if they have any jokes to share
+2025-12-03 11:47:22,245 - INFO - Embedding content: Offer to tell another joke if they stay
+2025-12-03 11:47:22,255 - INFO - Embedding content: Observe the passerby's reaction to the joke
+2025-12-03 11:47:22,258 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:22,266 - INFO - Embedding content: Look for signs of amusement or engagement
+2025-12-03 11:47:22,276 - INFO - Embedding content: Adjust future interaction based on their response
+2025-12-03 11:47:23,036 - INFO - Didn't Forward
+2025-12-03 11:47:25,189 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:26,044 - INFO - Didn't Forward
+2025-12-03 11:47:27,625 - INFO - Chat: FirstVolition: If user shows no reaction, acknowledge the silence with a playful remark
+2025-12-03 11:47:28,095 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:28,308 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:29,051 - INFO - Didn't Forward
+2025-12-03 11:47:31,421 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:31,516 - INFO - Backward To: Observe user's reaction to determine if they enjoyed the joke
+2025-12-03 11:47:32,058 - INFO - Forward To: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:32,398 - INFO - SpeakQueueThread: Speaking: Great! So you do enjoy a good pun. Let me share another one: Why don't skeletons fight each other? They don't have the guts!
+2025-12-03 11:47:32,683 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:34,539 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:35,067 - INFO - Didn't Forward
+2025-12-03 11:47:35,827 - INFO - Chat: FirstVolition: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:36,095 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:37,655 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:37,810 - INFO - Backward To: Observe user's reaction to determine if they enjoyed the joke
+2025-12-03 11:47:38,078 - INFO - Forward To: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:40,775 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:40,959 - INFO - Backward To: Observe user's reaction to determine if they enjoyed the joke
+2025-12-03 11:47:41,084 - INFO - Forward To: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:43,850 - INFO - Chat: FirstVolition: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:43,894 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:44,096 - INFO - Didn't Forward
+2025-12-03 11:47:44,121 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:44,694 - INFO - Embedding content: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:44,840 - INFO - Embedding content: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:47:44,890 - INFO - Embedding content: Check if user looks puzzled or shows no smile
+2025-12-03 11:47:44,900 - INFO - Embedding content: Notice if user seems disengaged or unresponsive
+2025-12-03 11:47:44,910 - INFO - Embedding content: Ask a clarifying question to gauge understanding
+2025-12-03 11:47:44,921 - INFO - Embedding content: Say 'Did you get the pun about the skeleton?'
+2025-12-03 11:47:44,931 - INFO - Embedding content: Ask 'Are puns not your thing?' with a friendly tone
+2025-12-03 11:47:44,942 - INFO - Embedding content: Offer to explain the joke if needed
+2025-12-03 11:47:44,953 - INFO - Embedding content: Say 'Want me to explain why it's funny?'
+2025-12-03 11:47:44,963 - INFO - Embedding content: Prepare a brief explanation of the wordplay
+2025-12-03 11:47:45,403 - INFO - SpeakQueueThread: Speaking: You’re smiling—that’s the sound of a joke well told!  
+Here’s another quick one for you:  
+Why did the bicycle fall over?  
+Because it was two-tired!
+2025-12-03 11:47:47,020 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:47,112 - INFO - Forward To: Ask a clarifying question to gauge understanding
+2025-12-03 11:47:47,268 - INFO - Backward To: If user seems confused or unamused, ask if they understood the pun
+2025-12-03 11:47:50,119 - INFO - Forward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:47:50,135 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:51,668 - INFO - Chat: FirstVolition: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:47:51,945 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:53,126 - INFO - Forward To: Check if user looks puzzled or shows no smile
+2025-12-03 11:47:53,251 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:53,371 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:53,561 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:47:54,110 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:55,372 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:47:56,141 - INFO - Forward To: Check if user looks puzzled or shows no smile
+2025-12-03 11:47:56,374 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:58,792 - INFO - SpeakQueueThread: Speaking: Glad you liked it! How about this one:  
+Why did the coffee file a police report?  
+It got mugged!  
+Did the wordplay land, or was it too brewed for comfort?
+2025-12-03 11:47:59,150 - INFO - Didn't Forward
+2025-12-03 11:47:59,494 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:47:59,960 - INFO - Chat: FirstVolition: Check if user looks puzzled or shows no smile
+2025-12-03 11:48:00,214 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:02,164 - INFO - Didn't Forward
+2025-12-03 11:48:02,455 - INFO - Embedding content: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:02,530 - INFO - Embedding content: Look for signs of confusion like furrowed brows or tilted head
+2025-12-03 11:48:02,605 - INFO - Embedding content: Check if there's a lack of smile or laughter response
+2025-12-03 11:48:02,614 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:02,685 - INFO - Embedding content: Observe user's eye contact - are they looking away or disengaged?
+2025-12-03 11:48:02,693 - INFO - Embedding content: If user seems confused, prepare a follow-up question
+2025-12-03 11:48:05,176 - INFO - Didn't Forward
+2025-12-03 11:48:05,730 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:06,167 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:08,191 - INFO - Forward To: Check if there's a lack of smile or laughter response
+2025-12-03 11:48:08,346 - INFO - Chat: FirstVolition: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:08,611 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:08,845 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:09,311 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:11,208 - INFO - Forward To: If user seems confused, prepare a follow-up question
+2025-12-03 11:48:11,966 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:12,463 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:13,118 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:14,217 - INFO - Forward To: Observe user's eye contact - are they looking away or disengaged?
+2025-12-03 11:48:14,546 - INFO - SpeakQueueThread: Speaking: Another smile? You’re making my circuits warm!  
+Here’s one more:  
+What do you call fake spaghetti?  
+An impasta!  
+Did that noodle its way into your funny bone?
+2025-12-03 11:48:15,075 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:15,619 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:15,806 - INFO - Chat: FirstVolition: Observe user's eye contact - are they looking away or disengaged?
+2025-12-03 11:48:16,093 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:17,233 - INFO - Forward To: Observe user's eye contact - are they looking away or disengaged?
+2025-12-03 11:48:18,192 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:18,764 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:20,244 - INFO - Forward To: If user seems confused, prepare a follow-up question
+2025-12-03 11:48:21,302 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:23,256 - INFO - Didn't Forward
+2025-12-03 11:48:23,550 - INFO - Chat: FirstVolition: If user seems confused, prepare a follow-up question
+2025-12-03 11:48:23,798 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:24,145 - INFO - Embedding content: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:24,235 - INFO - Embedding content: Focus visual sensors on user's facial features
+2025-12-03 11:48:24,318 - INFO - Embedding content: Analyze mouth shape for smile or neutral expression
+2025-12-03 11:48:24,391 - INFO - Embedding content: Detect eye movements for signs of confusion or disinterest
+2025-12-03 11:48:24,419 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:24,475 - INFO - Embedding content: Monitor brow furrowing or head tilting
+2025-12-03 11:48:24,486 - INFO - Embedding content: Interpret observed expressions to assess joke reception
+2025-12-03 11:48:24,495 - INFO - Embedding content: Classify expression as amused, confused, or neutral
+2025-12-03 11:48:24,507 - INFO - Embedding content: Compare current expression to previous interactions
+2025-12-03 11:48:24,517 - INFO - Embedding content: Prepare fallback observation method if visual cues are ambiguous
+2025-12-03 11:48:24,582 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:25,525 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:26,265 - INFO - Didn't Forward
+2025-12-03 11:48:27,540 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:29,272 - INFO - Didn't Forward
+2025-12-03 11:48:30,556 - INFO - SpeakQueueThread: Speaking: Excellent! Your laughter is the best kind of fuel. Let’s keep this going.  
+What do you call a bear with no teeth?  
+A gummy bear!  
+Did that one stick the landing?
+2025-12-03 11:48:30,648 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:31,361 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:31,362 - INFO - Chat: FirstVolition: If user seems confused, prepare a follow-up question
+2025-12-03 11:48:31,618 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:32,281 - INFO - Forward To: Notice if user seems disengaged or unresponsive
+2025-12-03 11:48:33,762 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:34,994 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:35,287 - INFO - Didn't Forward
+2025-12-03 11:48:36,878 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:38,290 - INFO - Didn't Forward
+2025-12-03 11:48:39,267 - INFO - Chat: FirstVolition: Notice if user seems disengaged or unresponsive
+2025-12-03 11:48:39,524 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:39,994 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:48:40,815 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:41,314 - INFO - Forward To: Look for signs of confusion like furrowed brows or tilted head
+2025-12-03 11:48:43,111 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:48:43,958 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:44,431 - INFO - Forward To: Observe user's eye contact - are they looking away or disengaged?
+2025-12-03 11:48:45,724 - INFO - Embedding content: Notice if user seems disengaged or unresponsive
+2025-12-03 11:48:45,735 - INFO - Embedding content: Ask a direct question to check engagement
+2025-12-03 11:48:45,746 - INFO - Embedding content: Say: 'Are you still enjoying these jokes? I'd love to keep sharing them with you!'
+2025-12-03 11:48:45,756 - INFO - Embedding content: Observe response time and reaction
+2025-12-03 11:48:45,772 - INFO - Embedding content: Monitor for delayed or minimal responses
+2025-12-03 11:48:45,781 - INFO - Embedding content: Check if user maintains eye contact or shows active listening cues
+2025-12-03 11:48:45,793 - INFO - Embedding content: Adjust interaction style based on perceived engagement
+2025-12-03 11:48:45,804 - INFO - Embedding content: If engagement seems low, try a different type of joke
+2025-12-03 11:48:45,820 - INFO - Embedding content: If unresponsive, ask if user wants to change topics
+2025-12-03 11:48:46,224 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:48:46,785 - INFO - SpeakQueueThread: Speaking: That smile is like sunshine for my sensors! Ready for another?
+
+Why did the scarecrow win an award?
+Because he was outstanding in his field!
+2025-12-03 11:48:47,112 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:47,239 - INFO - Chat: FirstVolition: Observe user's eye contact - are they looking away or disengaged?
+2025-12-03 11:48:47,448 - INFO - Forward To: If user seems confused, prepare a follow-up question
+2025-12-03 11:48:47,515 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:49,347 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:48:50,459 - INFO - Didn't Forward
+2025-12-03 11:48:52,470 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:48:53,464 - INFO - Didn't Forward
+2025-12-03 11:48:54,965 - INFO - Chat: FirstVolition: If user seems confused, prepare a follow-up question
+2025-12-03 11:48:55,216 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:55,583 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:48:55,688 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:56,212 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:56,479 - INFO - Didn't Forward
+2025-12-03 11:48:56,556 - INFO - Backward To: Observe user's facial expression for confusion or lack of amusement
+2025-12-03 11:48:56,920 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:48:58,703 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:48:59,494 - INFO - Forward To: If user seems confused, prepare a follow-up question
+2025-12-03 11:49:00,379 - INFO - SpeakQueueThread: Speaking: Fantastic! Your smile is truly contagious.  
+Want to hear another one?  
+
+What do you call a snowman with a six-pack?  
+An abdominal snowman!  
+
+Did that one melt your heart a little?
+2025-12-03 11:49:01,824 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:02,494 - INFO - Didn't Forward
+2025-12-03 11:49:02,869 - INFO - Chat: FirstVolition: If user seems confused, prepare a follow-up question
+2025-12-03 11:49:03,178 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:04,946 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:05,505 - INFO - Didn't Forward
+2025-12-03 11:49:08,055 - INFO - Embedding content: If user seems confused, prepare a follow-up question
+2025-12-03 11:49:08,060 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:08,068 - INFO - Embedding content: Recognize confusion signs from user's response
+2025-12-03 11:49:08,082 - INFO - Embedding content: Check if user asks for clarification or repeats the joke
+2025-12-03 11:49:08,097 - INFO - Embedding content: Note any hesitant or puzzled facial cues
+2025-12-03 11:49:08,110 - INFO - Embedding content: Formulate a clarifying or rephrased joke
+2025-12-03 11:49:08,125 - INFO - Embedding content: Rephrase the previous joke in simpler terms
+2025-12-03 11:49:08,134 - INFO - Embedding content: Offer a new, shorter joke to maintain engagement
+2025-12-03 11:49:08,144 - INFO - Embedding content: Ask a direct follow-up question to gauge understanding
+2025-12-03 11:49:08,152 - INFO - Embedding content: Say: 'Did that joke make sense? I can explain it differently!'
+2025-12-03 11:49:08,162 - INFO - Embedding content: Say: 'Want me to tell another one that's easier to get?'
+2025-12-03 11:49:08,509 - INFO - Forward To: Recognize confusion signs from user's response
+2025-12-03 11:49:09,156 - INFO - Backward To: If user seems confused, prepare a follow-up question
+2025-12-03 11:49:10,026 - INFO - Chat: FirstVolition: Recognize confusion signs from user's response
+2025-12-03 11:49:10,299 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:11,171 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:11,510 - INFO - Forward To: Ask a direct follow-up question to gauge understanding
+2025-12-03 11:49:14,283 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:14,518 - INFO - Forward To: Say: 'Want me to tell another one that's easier to get?'
+2025-12-03 11:49:17,297 - INFO - Chat: FirstVolition: Say: 'Want me to tell another one that's easier to get?'
+2025-12-03 11:49:17,406 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:17,528 - INFO - Didn't Forward
+2025-12-03 11:49:17,593 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:17,728 - INFO - SpeakQueueThread: Speaking: Excellent! Your engagement is truly uplifting.  
+Want to keep the fun going with another joke?  
+
+Why did the golfer bring two pairs of pants?  
+In case he got a hole in one!  
+
+Did that swing a smile your way?
+2025-12-03 11:49:18,656 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:20,518 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:20,533 - INFO - Didn't Forward
+2025-12-03 11:49:23,544 - INFO - Didn't Forward
+2025-12-03 11:49:23,638 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:23,799 - INFO - Embedding content: Say: 'Want me to tell another one that's easier to get?'
+2025-12-03 11:49:23,814 - INFO - Embedding content: Deliver the question with a hopeful tone
+2025-12-03 11:49:23,826 - INFO - Embedding content: Offer a simpler joke alternative if they decline
+2025-12-03 11:49:23,839 - INFO - Embedding content: Wait for their response to determine next step
+2025-12-03 11:49:24,100 - INFO - Chat: FirstVolition: Say: 'Want me to tell another one that's easier to get?'
+2025-12-03 11:49:24,395 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:26,550 - INFO - Forward To: Wait for their response to determine next step
+2025-12-03 11:49:26,752 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:27,073 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:28,102 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:29,565 - INFO - Didn't Forward
+2025-12-03 11:49:29,875 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:30,887 - INFO - Chat: FirstVolition: Wait for their response to determine next step
+2025-12-03 11:49:31,154 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:32,577 - INFO - Didn't Forward
+2025-12-03 11:49:32,993 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:34,267 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:49:35,588 - INFO - Didn't Forward
+2025-12-03 11:49:36,117 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:49:36,196 - INFO - SpeakQueueThread: Speaking: I sense you might not be enjoying the jokes—would you prefer a quick question instead?

@@ -1,0 +1,12 @@
+2025-11-29 10:21:34,489 - INFO - __init__: 树初始化完毕
+2025-11-29 10:21:34,547 - INFO - Didn't Forward
+2025-11-29 10:21:34,655 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-29 10:21:37,566 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-11-29 10:21:39,777 - INFO - Chat: FirstVolition: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-11-29 10:21:40,389 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-29 10:21:40,571 - INFO - Didn't Forward
+2025-11-29 10:21:40,941 - INFO - Backward To: Reveal an unexpected aspect of machine learning about human behavior
+2025-11-29 10:21:42,265 - INFO - SpeakQueueThread: Speaking: Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!
+2025-11-29 10:21:43,573 - INFO - Forward To: Say: 'Machines have learned that humans make the same typing mistakes repeatedly - we could predict your next error before you even make it!'
+2025-11-29 10:21:44,995 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-29 10:21:46,586 - INFO - Didn't Forward

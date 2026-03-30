@@ -1,0 +1,8 @@
+gevent>=22.0.0
+pyzmq>=24.0.0
+anytree>=2.8.0
+numpy>=1.21.0
+keyboard>=0.13.0
+azure-cognitiveservices-speech>=1.25.0
+openai>=1.0.0
+sentence-transformers>=2.2.0

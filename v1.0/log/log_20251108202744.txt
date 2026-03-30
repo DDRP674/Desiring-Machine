@@ -1,0 +1,269 @@
+2025-11-08 20:27:44,959 - INFO - Embedding content: Make the user press the K button on the keyboard
+2025-11-08 20:27:44,973 - INFO - __init__: 树初始化完毕
+2025-11-08 20:27:44,973 - INFO - Make the user press the K button on the keyboard
+2025-11-08 20:27:45,107 - INFO - RunThread: 键盘监听开始，按ESC退出
+2025-11-08 20:27:45,211 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\Conda_Envs\\general\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-08 20:27:45,212 - INFO - Using writeable comtypes cache directory: 'D:\Conda_Envs\general\lib\site-packages\comtypes\gen'
+2025-11-08 20:27:45,327 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:27:46,242 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:27:48,210 - INFO - Speaking: （你走在街上，突然感觉眼前一黑，几个黑衣大汉把你拉进了一辆面包车）
+2025-11-08 20:27:49,051 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:27:51,671 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:27:54,075 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:27:56,777 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:27:56,861 - INFO - {
+    "content": "Make the user press the K button on the keyboard",
+    "is_abstract": true,
+    "children": [
+        {
+            "content": "Explain the purpose of pressing K key",
+            "is_abstract": false,
+            "children": []
+        },
+        {
+            "content": "Provide clear instructions on how to locate K key",
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Describe K key position in QWERTY layout",
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Suggest using index or middle finger for K key",
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Offer encouragement and positive reinforcement",
+            "is_abstract": false,
+            "children": []
+        },
+        {
+            "content": "Ask user to confirm when they press K key",
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Request verbal confirmation",
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Ask to describe the experience",
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+2025-11-08 20:27:56,862 - INFO - Embedding content: Make the user press the K button on the keyboard
+2025-11-08 20:27:57,031 - INFO - Embedding content: Explain the purpose of pressing K key
+2025-11-08 20:27:57,181 - INFO - Embedding content: Provide clear instructions on how to locate K key
+2025-11-08 20:27:57,231 - INFO - Embedding content: Describe K key position in QWERTY layout
+2025-11-08 20:27:57,240 - INFO - Embedding content: Suggest using index or middle finger for K key
+2025-11-08 20:27:57,249 - INFO - Embedding content: Offer encouragement and positive reinforcement
+2025-11-08 20:27:57,260 - INFO - Embedding content: Ask user to confirm when they press K key
+2025-11-08 20:27:57,273 - INFO - Embedding content: Request verbal confirmation
+2025-11-08 20:27:57,284 - INFO - Embedding content: Ask to describe the experience
+2025-11-08 20:27:57,294 - INFO - Make the user press the K button on the keyboard
+2025-11-08 20:27:57,294 - INFO - ├── Explain the purpose of pressing K key
+2025-11-08 20:27:57,295 - INFO - ├── Provide clear instructions on how to locate K key
+2025-11-08 20:27:57,295 - INFO - │   ├── Describe K key position in QWERTY layout
+2025-11-08 20:27:57,296 - INFO - │   └── Suggest using index or middle finger for K key
+2025-11-08 20:27:57,296 - INFO - ├── Offer encouragement and positive reinforcement
+2025-11-08 20:27:57,296 - INFO - └── Ask user to confirm when they press K key
+2025-11-08 20:27:57,297 - INFO -     ├── Request verbal confirmation
+2025-11-08 20:27:57,297 - INFO -     └── Ask to describe the experience
+2025-11-08 20:27:59,515 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:02,954 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:05,261 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:07,171 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:07,509 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:09,142 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:12,492 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:15,514 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:16,687 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:16,835 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:17,423 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:19,893 - INFO - {
+    "content": "Provide clear instructions on how to locate K key", 
+    "is_abstract": true,
+    "children": [
+        {
+            "content": "Explain what the K key typically looks like on different keyboard layouts",
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Describe the K key on standard QWERTY keyboards",
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Show the K key position on laptop keyboards",
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Explain variations on international keyboard layouts",
+                    "is_abstract": true,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Provide step-by-step guidance to find the K key",
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Instruct to look at the middle row of letters",
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Guide to locate between J and L keys",
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Suggest using index finger positioning method",
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Offer alternative methods to identify the K key",
+            "is_abstract": true,
+            "children": []
+        }
+    ]
+}
+2025-11-08 20:28:19,894 - INFO - Embedding content: Provide clear instructions on how to locate K key
+2025-11-08 20:28:20,083 - INFO - Embedding content: Explain what the K key typically looks like on different keyboard layouts
+2025-11-08 20:28:20,230 - INFO - Embedding content: Describe the K key on standard QWERTY keyboards
+2025-11-08 20:28:20,240 - INFO - Embedding content: Show the K key position on laptop keyboards
+2025-11-08 20:28:20,251 - INFO - Embedding content: Explain variations on international keyboard layouts
+2025-11-08 20:28:20,262 - INFO - Embedding content: Provide step-by-step guidance to find the K key
+2025-11-08 20:28:20,273 - INFO - Embedding content: Instruct to look at the middle row of letters
+2025-11-08 20:28:20,284 - INFO - Embedding content: Guide to locate between J and L keys
+2025-11-08 20:28:20,294 - INFO - Embedding content: Suggest using index finger positioning method
+2025-11-08 20:28:20,307 - INFO - Embedding content: Offer alternative methods to identify the K key
+2025-11-08 20:28:20,318 - INFO - Make the user press the K button on the keyboard
+2025-11-08 20:28:20,318 - INFO - ├── Explain the purpose of pressing K key
+2025-11-08 20:28:20,318 - INFO - ├── Provide clear instructions on how to locate K key
+2025-11-08 20:28:20,319 - INFO - │   ├── Describe K key position in QWERTY layout
+2025-11-08 20:28:20,319 - INFO - │   ├── Suggest using index or middle finger for K key
+2025-11-08 20:28:20,319 - INFO - │   ├── Explain what the K key typically looks like on different keyboard layouts
+2025-11-08 20:28:20,320 - INFO - │   │   ├── Describe the K key on standard QWERTY keyboards
+2025-11-08 20:28:20,320 - INFO - │   │   ├── Show the K key position on laptop keyboards
+2025-11-08 20:28:20,320 - INFO - │   │   └── Explain variations on international keyboard layouts
+2025-11-08 20:28:20,321 - INFO - │   ├── Provide step-by-step guidance to find the K key
+2025-11-08 20:28:20,321 - INFO - │   │   ├── Instruct to look at the middle row of letters
+2025-11-08 20:28:20,322 - INFO - │   │   ├── Guide to locate between J and L keys
+2025-11-08 20:28:20,322 - INFO - │   │   └── Suggest using index finger positioning method
+2025-11-08 20:28:20,322 - INFO - │   └── Offer alternative methods to identify the K key
+2025-11-08 20:28:20,322 - INFO - ├── Offer encouragement and positive reinforcement
+2025-11-08 20:28:20,323 - INFO - └── Ask user to confirm when they press K key
+2025-11-08 20:28:20,323 - INFO -     ├── Request verbal confirmation
+2025-11-08 20:28:20,323 - INFO -     └── Ask to describe the experience
+2025-11-08 20:28:22,747 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:24,648 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:26,891 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:28,828 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:30,524 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:31,436 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:33,787 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:35,749 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:38,002 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:40,202 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:42,315 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:45,039 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:47,116 - INFO - {
+    "content": "Provide clear instructions on how to locate K key", 
+    "is_abstract": true,
+    "children": [
+        {
+            "content": "Explain what a K key typically refers to", 
+            "is_abstract": false,
+            "children": []
+        },
+        {
+            "content": "Describe common locations where K key might be found", 
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Check keyboard layout and identify K key position", 
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Look for physical K keys on devices or objects", 
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Search for K key in software interfaces", 
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Provide step-by-step guidance for locating K key", 
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Give visual cues to help identify the K key", 
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Suggest systematic search methods", 
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Offer alternative approaches if K key is not immediately found", 
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Explain possible contexts where K key search might be needed", 
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Discuss keyboard shortcuts involving K key", 
+                    "is_abstract": false,
+                    "children": []
+                },
+                {
+                    "content": "Mention gaming controls using K key", 
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+2025-11-08 20:28:47,117 - INFO - Embedding content: Provide clear instructions on how to locate K key
+2025-11-08 20:28:47,290 - INFO - Embedding content: Explain what a K key typically refers to
+2025-11-08 20:28:47,422 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:47,423 - INFO - Embedding content: Describe common locations where K key might be found
+2025-11-08 20:28:47,431 - INFO - Embedding content: Check keyboard layout and identify K key position
+2025-11-08 20:28:47,447 - INFO - Embedding content: Look for physical K keys on devices or objects
+2025-11-08 20:28:47,458 - INFO - Embedding content: Search for K key in software interfaces
+2025-11-08 20:28:47,474 - INFO - Embedding content: Provide step-by-step guidance for locating K key
+2025-11-08 20:28:47,487 - INFO - Embedding content: Give visual cues to help identify the K key
+2025-11-08 20:28:47,499 - INFO - Embedding content: Suggest systematic search methods
+2025-11-08 20:28:47,514 - INFO - Embedding content: Offer alternative approaches if K key is not immediately found
+2025-11-08 20:28:47,524 - INFO - Embedding content: Explain possible contexts where K key search might be needed
+2025-11-08 20:28:47,537 - INFO - Embedding content: Discuss keyboard shortcuts involving K key
+2025-11-08 20:28:47,547 - INFO - Embedding content: Mention gaming controls using K key
+2025-11-08 20:28:47,558 - WARNING - Grow: 节点ID不匹配，无法添加孩子
+2025-11-08 20:28:47,814 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-08 20:28:47,837 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"

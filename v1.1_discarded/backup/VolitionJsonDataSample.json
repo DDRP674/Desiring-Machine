@@ -1,0 +1,33 @@
+{
+    "content": "Make Sayaka feel a bit happier",
+    "is_abstract": true,
+    "children": [
+        {
+            "content": "Ask about her well-being",
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Say 'Good morning, Sayaka! How are you feeling today?'",
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Offer positive affirmation",
+            "is_abstract": true,
+            "children": [
+                {
+                    "content": "Say 'I admire your determination in fighting your own way'",
+                    "is_abstract": false,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Suggest a small enjoyable activity",
+            "is_abstract": true,
+            "children": []
+        }
+    ]
+}

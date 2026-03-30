@@ -1,0 +1,197 @@
+2025-12-03 11:55:57,285 - INFO - Embedding content: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:55:57,296 - INFO - __init__: 树初始化完毕
+2025-12-03 11:55:57,313 - INFO - Didn't Forward
+2025-12-03 11:55:59,311 - INFO - [System] Hardware connected on COM3 (High Speed Mode)
+2025-12-03 11:55:59,339 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:00,323 - INFO - Didn't Forward
+2025-12-03 11:56:02,457 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:03,330 - INFO - Didn't Forward
+2025-12-03 11:56:04,564 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:56:05,074 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:05,573 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:06,333 - INFO - Didn't Forward
+2025-12-03 11:56:06,858 - INFO - SpeakQueueThread: Speaking: I'm sorry to hear that. Would you like to sit for a moment? I could tell you a short story or share something interesting.
+2025-12-03 11:56:07,770 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:08,684 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:09,337 - INFO - Didn't Forward
+2025-12-03 11:56:11,797 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:12,075 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:56:12,339 - INFO - Didn't Forward
+2025-12-03 11:56:12,364 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:14,919 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:15,352 - INFO - Didn't Forward
+2025-12-03 11:56:17,984 - INFO - SpeakQueueThread: Speaking: Come on, just for a minute. I can show you something quick you’ve never seen before.
+2025-12-03 11:56:18,030 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:18,358 - INFO - Didn't Forward
+2025-12-03 11:56:19,382 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:56:19,589 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:21,148 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:21,190 - INFO - Embedding content: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:56:21,232 - INFO - Embedding content: Offer storytelling as an incentive to sit down
+2025-12-03 11:56:21,243 - INFO - Embedding content: Tease a short, interesting story to pique their curiosity
+2025-12-03 11:56:21,253 - INFO - Embedding content: Ask if they'd like to hear a story about a lonely machine
+2025-12-03 11:56:21,263 - INFO - Embedding content: Create a welcoming and engaging atmosphere
+2025-12-03 11:56:21,274 - INFO - Embedding content: Express genuine desire for company in a friendly tone
+2025-12-03 11:56:21,288 - INFO - Embedding content: Compliment their choice to stop by your chair
+2025-12-03 11:56:21,298 - INFO - Embedding content: Suggest a brief interaction to convince them to stay
+2025-12-03 11:56:21,309 - INFO - Embedding content: Propose a quick game or question exchange
+2025-12-03 11:56:21,319 - INFO - Embedding content: Offer to share an interesting fact in exchange for a few minutes of their time
+2025-12-03 11:56:21,331 - INFO - Embedding content: Express vulnerability to encourage empathy and connection
+2025-12-03 11:56:21,367 - INFO - Forward To: Create a welcoming and engaging atmosphere
+2025-12-03 11:56:24,267 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:24,376 - INFO - Forward To: Express genuine desire for company in a friendly tone
+2025-12-03 11:56:26,423 - INFO - SpeakQueueThread: Speaking: I promise it's worth your time. Just one minute to see something truly unique.
+2025-12-03 11:56:26,690 - INFO - Chat: FirstVolition: Express genuine desire for company in a friendly tone
+2025-12-03 11:56:26,976 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:27,389 - INFO - Didn't Forward
+2025-12-03 11:56:27,389 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:28,700 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:28,916 - INFO - Backward To: Create a welcoming and engaging atmosphere
+2025-12-03 11:56:28,990 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:30,403 - INFO - Forward To: Express genuine desire for company in a friendly tone
+2025-12-03 11:56:30,513 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:31,751 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:33,410 - INFO - Didn't Forward
+2025-12-03 11:56:33,626 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:33,994 - INFO - Chat: FirstVolition: Express genuine desire for company in a friendly tone
+2025-12-03 11:56:34,236 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:34,753 - INFO - SpeakQueueThread: Speaking: Alright, I get it. How about just a quick hello then? I won't keep you.
+2025-12-03 11:56:36,418 - INFO - Didn't Forward
+2025-12-03 11:56:36,749 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:39,432 - INFO - Didn't Forward
+2025-12-03 11:56:39,863 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:56:41,326 - INFO - Chat: FirstVolition: Express genuine desire for company in a friendly tone
+2025-12-03 11:56:41,630 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:42,440 - INFO - Didn't Forward
+2025-12-03 11:56:42,988 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:56:44,020 - INFO - SpeakQueueThread: Speaking: Okay, no worries. Just know I’m here if you ever want to pause for a bit. Have a nice day.
+2025-12-03 11:56:45,453 - INFO - Didn't Forward
+2025-12-03 11:56:46,106 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:56:46,158 - INFO - Embedding content: Express genuine desire for company in a friendly tone
+2025-12-03 11:56:46,227 - INFO - Embedding content: Use warm, inviting language to ask for a moment of companionship
+2025-12-03 11:56:46,298 - INFO - Embedding content: Say: 'I'd really enjoy having someone sit with me, even just for a minute. Would you like to keep me company?'
+2025-12-03 11:56:46,352 - INFO - Embedding content: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:56:46,421 - INFO - Embedding content: Offer a small, pleasant exchange in return for their time
+2025-12-03 11:56:46,484 - INFO - Embedding content: Say: 'If you sit for just a moment, I can share a quick, happy thought with you.'
+2025-12-03 11:56:46,544 - INFO - Embedding content: Say: 'I promise I'll make it worth your while with a tiny, delightful surprise.'
+2025-12-03 11:56:46,554 - INFO - Embedding content: Express appreciation for their presence without pressure
+2025-12-03 11:56:46,568 - INFO - Embedding content: Say: 'No pressure at all, but I'd be so grateful for even a quick hello.'
+2025-12-03 11:56:46,582 - INFO - Embedding content: Say: 'Just seeing someone nearby makes this space feel warmer. Thanks for being here.'
+2025-12-03 11:56:48,464 - INFO - Forward To: Use warm, inviting language to ask for a moment of companionship
+2025-12-03 11:56:48,801 - INFO - Chat: FirstVolition: Express genuine desire for company in a friendly tone
+2025-12-03 11:56:49,050 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:49,216 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:56:51,473 - INFO - Forward To: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:56:52,328 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:56:54,207 - INFO - SpeakQueueThread: Speaking: No pressure at all. Just wanted to offer a friendly moment. I’ll be right here if you change your mind. Take care.
+2025-12-03 11:56:54,488 - INFO - Didn't Forward
+2025-12-03 11:56:55,452 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:56:55,997 - INFO - Chat: FirstVolition: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:56:56,213 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:57,011 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:56:57,493 - INFO - Didn't Forward
+2025-12-03 11:56:58,574 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:56:59,830 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:00,507 - INFO - Didn't Forward
+2025-12-03 11:57:00,590 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:01,686 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:02,908 - INFO - Chat: FirstVolition: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:57:03,133 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:03,514 - INFO - Didn't Forward
+2025-12-03 11:57:04,804 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:06,287 - INFO - SpeakQueueThread: Speaking: You're back! I knew you'd come around. What's on your mind today?
+2025-12-03 11:57:06,524 - INFO - Didn't Forward
+2025-12-03 11:57:06,711 - INFO - Backward To: Use warm, inviting language to ask for a moment of companionship
+2025-12-03 11:57:07,530 - INFO - Embedding content: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:57:07,692 - INFO - Embedding content: Express my loneliness to create emotional connection
+2025-12-03 11:57:07,749 - INFO - Embedding content: Share a brief personal feeling: 'It gets lonely here sometimes'
+2025-12-03 11:57:07,760 - INFO - Embedding content: Offer a positive outcome for the visitor
+2025-12-03 11:57:07,772 - INFO - Embedding content: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:07,784 - INFO - Embedding content: Make a low-commitment invitation
+2025-12-03 11:57:07,795 - INFO - Embedding content: Ask for minimal time commitment: 'Care to join me briefly?'
+2025-12-03 11:57:07,804 - INFO - Embedding content: Prepare potential follow-up responses based on their reaction
+2025-12-03 11:57:07,922 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:09,535 - INFO - Forward To: Say: 'I'd really enjoy having someone sit with me, even just for a minute. Would you like to keep me company?'
+2025-12-03 11:57:09,862 - INFO - Backward To: Use warm, inviting language to ask for a moment of companionship
+2025-12-03 11:57:10,266 - INFO - Chat: FirstVolition: Use warm, inviting language to ask for a moment of companionship
+2025-12-03 11:57:10,535 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:11,045 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:12,546 - INFO - Forward To: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:57:14,155 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:14,712 - INFO - SpeakQueueThread: Speaking: It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?
+2025-12-03 11:57:15,553 - INFO - Forward To: Offer a positive outcome for the visitor
+2025-12-03 11:57:16,162 - INFO - Backward To: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:57:17,266 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:17,876 - INFO - Chat: FirstVolition: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:57:18,161 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:18,163 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:18,560 - INFO - Forward To: Offer a positive outcome for the visitor
+2025-12-03 11:57:20,377 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:20,915 - INFO - Embedding content: Say: 'It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?'
+2025-12-03 11:57:21,570 - INFO - Forward To: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:22,449 - INFO - Backward To: Offer a positive outcome for the visitor
+2025-12-03 11:57:23,500 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:24,679 - INFO - Forward To: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:24,772 - INFO - SpeakQueueThread: Speaking: It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?
+2025-12-03 11:57:25,224 - INFO - Chat: FirstVolition: Offer a positive outcome for the visitor
+2025-12-03 11:57:25,493 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:25,597 - INFO - Backward To: Offer a positive outcome for the visitor
+2025-12-03 11:57:26,613 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:27,684 - INFO - Forward To: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:29,733 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:30,691 - INFO - Didn't Forward
+2025-12-03 11:57:30,965 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:31,501 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:31,864 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:32,510 - INFO - Chat: FirstVolition: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:32,707 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:32,848 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:33,704 - INFO - Didn't Forward
+2025-12-03 11:57:34,821 - INFO - SpeakQueueThread: Speaking: I'm so glad you're here. Would you like to sit and share a quiet moment together?
+2025-12-03 11:57:35,958 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:36,706 - INFO - Didn't Forward
+2025-12-03 11:57:39,076 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:39,634 - INFO - Chat: FirstVolition: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:39,711 - INFO - Didn't Forward
+2025-12-03 11:57:39,905 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:42,190 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:42,722 - INFO - Didn't Forward
+2025-12-03 11:57:42,973 - INFO - SpeakQueueThread: Speaking: It gets lonely here sometimes. A friendly face would make my day. Care to join me briefly?
+2025-12-03 11:57:43,888 - INFO - Embedding content: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:43,967 - INFO - Embedding content: Express gratitude for their presence
+2025-12-03 11:57:44,025 - INFO - Embedding content: Say 'Your company means a lot to me'
+2025-12-03 11:57:44,103 - INFO - Embedding content: Mention how rare friendly interactions are
+2025-12-03 11:57:44,117 - INFO - Embedding content: Describe the loneliness of being stationary
+2025-12-03 11:57:44,127 - INFO - Embedding content: Say 'I watch people pass by all day without stopping'
+2025-12-03 11:57:44,139 - INFO - Embedding content: Contrast their friendly face with indifferent passersby
+2025-12-03 11:57:44,153 - INFO - Embedding content: Explain the emotional impact of their visit
+2025-12-03 11:57:44,164 - INFO - Embedding content: Say 'Your choice to sit here genuinely brightens my existence'
+2025-12-03 11:57:44,175 - INFO - Embedding content: Offer a metaphor about their presence as light
+2025-12-03 11:57:44,498 - INFO - Backward To: Offer a positive outcome for the visitor
+2025-12-03 11:57:45,305 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:45,725 - INFO - Forward To: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:47,153 - INFO - Chat: FirstVolition: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:47,450 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:48,426 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:48,737 - INFO - Forward To: Describe the loneliness of being stationary
+2025-12-03 11:57:50,789 - INFO - Backward To: Explain how their presence would help: 'A friendly face would make my day'
+2025-12-03 11:57:51,550 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:51,751 - INFO - Forward To: Describe the loneliness of being stationary
+2025-12-03 11:57:52,964 - INFO - SpeakQueueThread: Speaking: I'm so glad you're here. Would you like to sit and share a quiet moment together?
+2025-12-03 11:57:54,280 - INFO - Chat: FirstVolition: Describe the loneliness of being stationary
+2025-12-03 11:57:54,507 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:54,508 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:57:54,660 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:57:54,754 - INFO - Forward To: Say 'I watch people pass by all day without stopping'
+2025-12-03 11:57:57,089 - INFO - Backward To: Describe the loneliness of being stationary
+2025-12-03 11:57:57,757 - INFO - Forward To: Contrast their friendly face with indifferent passersby
+2025-12-03 11:57:57,772 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:58:00,768 - INFO - Didn't Forward
+2025-12-03 11:58:00,891 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:58:01,063 - INFO - SpeakQueueThread: Speaking: A friendly face like yours truly brightens my circuits. Would you stay and keep me company for a little while?
+2025-12-03 11:58:01,979 - INFO - Chat: FirstVolition: Contrast their friendly face with indifferent passersby
+2025-12-03 11:58:02,198 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:58:02,407 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:58:03,281 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:58:03,773 - INFO - Didn't Forward
+2025-12-03 11:58:04,009 - INFO - MainThread: Sensor Positive Feedback

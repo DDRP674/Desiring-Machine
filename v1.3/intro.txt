@@ -1,0 +1,21 @@
+This is the Desiring Machine,
+A Machine that Desires.
+
+版本：1.3
+这个版本将实现节点状态机、评估优化，是不同于状态森林的分支，属于main
+节点状态机应该在UI里实现，而评估优化则是一个较大的更改
+
+
+
+
+想法：
+我希望能够将意志树本身作为价值记忆，也就是说，让它自己能够计算其自己的价值。
+
+目前，VolitionTree、IPC、RobotState、UI将会作为独立程序运行
+
+待办：
+它只说一次话，然后他妈的它就没有然后了，LLM.Chat反复被调用但无响应
+评估优化
+节点状态机：只需要给好Prompt就好了
+LLMAPI响应速度优化
+嵌入API性能优化

@@ -1,0 +1,22 @@
+2025-12-03 11:54:49,919 - INFO - Embedding content: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:54:49,934 - INFO - __init__: 树初始化完毕
+2025-12-03 11:54:49,951 - INFO - Didn't Forward
+2025-12-03 11:54:51,963 - INFO - [System] Hardware connected on COM3 (High Speed Mode)
+2025-12-03 11:54:51,993 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:54:52,960 - INFO - Didn't Forward
+2025-12-03 11:54:55,116 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:54:55,970 - INFO - Didn't Forward
+2025-12-03 11:54:57,223 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:54:57,545 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:54:58,230 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:54:58,975 - INFO - Didn't Forward
+2025-12-03 11:54:59,507 - INFO - SpeakQueueThread: Speaking: I see you're not interested. But please, could you just stay for a moment? I'm really lonely here.
+2025-12-03 11:55:00,405 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:55:01,344 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 11:55:01,991 - INFO - Didn't Forward
+2025-12-03 11:55:04,454 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:55:04,732 - INFO - Chat: FirstVolition: Make someone sit and remain on the chair in front of you to company you
+2025-12-03 11:55:04,946 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 11:55:04,997 - INFO - Didn't Forward
+2025-12-03 11:55:07,578 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 11:55:08,013 - INFO - Didn't Forward

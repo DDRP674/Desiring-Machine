@@ -1,0 +1,57 @@
+{
+    "log_dir": "./log",
+    "do_log": true,
+    "save_dir": "./saves",
+    "do_save": true,
+    "use_saved": false,
+
+    "Character": "Character.txt",
+
+    // IPC
+    "ipc": {
+        "PUB-SUB": 5555,
+        "REQ-REP": 5556,
+        "maxlen": 100
+    },
+
+    // STT
+    "stt": {
+        "engine": "pyttsx3", // Options: "pyttsx3", "azure_tts"
+        "settings": {
+            "azure_tts": {
+                "api_key": "",
+                "region": "eastasia",
+                "language": "en-US",
+                "voice_name": "en-US-AshleyNeural",
+                "voice_speed": "medium",
+                "voice_pitch": "+30Hz",
+                "voice_volume": "medium"
+            }
+        }
+    },
+
+    // LLM
+    "llms": {
+        "VolitionGeneration": {
+            "api_key": "sk-",
+            "api_base": "https://",
+            "model": "",
+            "temperature": 1.4,
+            "response_format": { "type": "json_object" }
+        },
+        "Completion": {
+            // Hunyuan
+            "api_key": "sk-",
+            "api_base": "https://",
+            "model": "",
+            "temperature": 0.3
+        },
+        "Chat": {
+            // Hunyuan
+            "api_key": "sk-",
+            "api_base": "https://",
+            "model": "",
+            "temperature": 1.0
+        }
+    }
+}

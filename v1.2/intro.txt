@@ -1,0 +1,23 @@
+This is the Desiring Machine,
+A Machine that Desires.
+
+版本：1.2.2
+这个版本使用自评估。如果需要传统评估器请回到v1.2.1
+
+0.1秒可以遍历50000个节点
+修改欲望实在的实现的时候从UI.UI.main修改
+目前，VolitionTree、IPC、RobotState、UI将会作为独立程序运行
+
+启动：
+双击运行index.html（不要Go Live）
+在UI.py里把DesireSim换成Desire
+运行main.py
+
+待办：
+
+可视化树：非平均树
+
+快速清空文件脚本
+
+加入树大小控制（不重要，因为0.1秒可以遍历五万个节点）
+调整prompt，添加音效功能，考虑要不要在提示词加入原始欲望提示

@@ -1,0 +1,48 @@
+2025-10-21 15:34:57,596 - INFO - 让我感到开心一些
+2025-10-21 15:35:02,599 - INFO - 让我感到开心一些
+2025-10-21 15:35:07,608 - INFO - 让我感到开心一些
+2025-10-21 15:35:08,097 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-10-21 15:35:12,624 - INFO - 让我感到开心一些
+2025-10-21 15:35:16,365 - INFO - {
+    "content": "Make the user feel happier", 
+    "is_abstract": true,
+    "children": [
+        {
+            "content": "Share uplifting and positive messages", 
+            "is_abstract": false,
+            "children": []
+        },
+        {
+            "content": "Tell a funny joke or humorous story", 
+            "is_abstract": false,
+            "children": []
+        },
+        {
+            "content": "Offer words of encouragement and support", 
+            "is_abstract": false,
+            "children": []
+        },
+        {
+            "content": "Suggest positive activities or mindset shifts", 
+            "is_abstract": true,
+            "children": []
+        },
+        {
+            "content": "Share inspiring quotes or stories", 
+            "is_abstract": false,
+            "children": []
+        }
+    ]
+}
+2025-10-21 15:35:16,819 - INFO - 5
+2025-10-21 15:35:17,634 - INFO - 让我感到开心一些
+2025-10-21 15:35:17,635 - INFO - ├── Share uplifting and positive messages
+2025-10-21 15:35:17,635 - INFO - ├── Tell a funny joke or humorous story
+2025-10-21 15:35:17,636 - INFO - ├── Offer words of encouragement and support
+2025-10-21 15:35:17,636 - INFO - ├── Suggest positive activities or mindset shifts
+2025-10-21 15:35:17,636 - INFO - └── Share inspiring quotes or stories
+2025-10-21 15:35:19,731 - INFO - HTTP Request: POST https://api.hunyuan.cloud.tencent.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-21 15:35:22,637 - INFO - 让我感到开心一些
+2025-10-21 15:35:22,638 - INFO - ├── Share uplifting and positive messages
+2025-10-21 15:35:22,638 - INFO - ├── Offer words of encouragement and support
+2025-10-21 15:35:22,638 - INFO - └── Suggest positive activities or mindset shifts

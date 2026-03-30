@@ -1,0 +1,14 @@
+gevent>=22.0.0
+redis>=4.2.0
+anytree>=2.8.0
+numpy>=1.21.0
+Flask>=2.3.0
+Flask-CORS>=3.0.0
+pyttsx3>=2.90
+keyboard>=0.13.0
+edge-tts>=6.0.0
+pydub>=0.25.0
+azure-cognitiveservices-speech>=1.25.0
+pyserial>=3.5.0
+openai>=1.0.0
+sentence-transformers>=2.2.0

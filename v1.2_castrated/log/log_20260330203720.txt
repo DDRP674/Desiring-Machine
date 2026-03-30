@@ -1,0 +1,13 @@
+2026-03-30 20:37:20,481 - INFO - RunThread: 键盘监听开始，按ESC退出
+2026-03-30 20:37:21,500 - INFO - 树初始化完毕
+2026-03-30 20:37:21,538 - INFO - StateMachine_0: 执行attract
+2026-03-30 20:37:21,898 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-03-30 20:37:24,047 - INFO - SpeakQueueThread: Speaking: {'en': 'Come sit here and let me play a random song for you!', 'zh': '来坐这儿吧，让我为你放一首随机的歌！'}
+2026-03-30 20:37:30,411 - INFO - on_key_press: 检测到按下KeyboardEvent(k down)
+2026-03-30 20:37:30,494 - INFO - Sitting, State: 0 -> 1
+2026-03-30 20:37:30,554 - INFO - StateMachine_1: Manager Registered: Play some random music using the speakers (you don't know or specify the music you will play)
+2026-03-30 20:37:30,739 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-03-30 20:37:37,289 - INFO - on_key_release: 检测到放开KeyboardEvent(k up)
+2026-03-30 20:37:37,337 - INFO - Unsitting, State 1
+2026-03-30 20:37:37,337 - INFO - SpeakQueueThread: Speaking: {'en': 'Please stay, I feel so lonely without you.', 'zh': '请留下，没有你我感到好孤单。'}
+2026-03-30 20:37:37,713 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"

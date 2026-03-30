@@ -1,0 +1,33 @@
+{
+    "log_dir": "./log",
+    "do_log": true,
+    "save_dir": "./saves",
+    "do_save": true,
+    "use_saved": false,
+
+    "Character": "Character.txt",
+
+    // IPC
+    "ipc": {
+        "PUB-SUB": 5555,
+        "REQ-REP": 5556,
+        "maxlen": 100
+    },
+
+    // LLM
+    "llms": {
+        "VolitionGeneration": {
+            "api_key": "sk-",
+            "api_base": "https://",
+            "model": "",
+            "temperature": 1.4,
+            "response_format": { "type": "json_object" }
+        },
+        "Completion": {
+            "api_key": "sk-",
+            "api_base": "https://",
+            "model": "",
+            "temperature": 0.3
+        }
+    }
+}

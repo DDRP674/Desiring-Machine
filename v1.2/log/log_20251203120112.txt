@@ -1,0 +1,700 @@
+2025-12-03 12:01:13,282 - INFO - Embedding content: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:01:13,295 - INFO - __init__: 树初始化完毕
+2025-12-03 12:01:13,312 - INFO - Didn't Forward
+2025-12-03 12:01:15,312 - INFO - [System] Hardware connected on COM3 (High Speed Mode)
+2025-12-03 12:01:15,346 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:01:16,322 - INFO - Didn't Forward
+2025-12-03 12:01:18,458 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:19,331 - INFO - Didn't Forward
+2025-12-03 12:01:20,572 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:01:20,968 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:01:21,573 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:22,347 - INFO - Didn't Forward
+2025-12-03 12:01:22,595 - INFO - SpeakQueueThread: Speaking: Hey you! Yes you! Keep your distance, I'm not a park bench. Move along now.
+2025-12-03 12:01:24,696 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:25,356 - INFO - Didn't Forward
+2025-12-03 12:01:27,820 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:27,820 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:01:28,065 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:01:28,364 - INFO - Didn't Forward
+2025-12-03 12:01:30,931 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:31,381 - INFO - Didn't Forward
+2025-12-03 12:01:33,557 - INFO - SpeakQueueThread: Speaking: That's more like it. Now keep moving, I'm not a welcome mat. Shoo!
+2025-12-03 12:01:34,055 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:34,395 - INFO - Didn't Forward
+2025-12-03 12:01:35,108 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:01:36,358 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:01:37,166 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:37,401 - INFO - Didn't Forward
+2025-12-03 12:01:40,281 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:40,404 - INFO - Didn't Forward
+2025-12-03 12:01:42,682 - INFO - SpeakQueueThread: Speaking: Alright, you've got the idea. Keep walking, don't even think about stopping. That chair is not for you.
+2025-12-03 12:01:43,178 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:01:43,396 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:43,412 - INFO - Didn't Forward
+2025-12-03 12:01:43,451 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:01:46,416 - INFO - Didn't Forward
+2025-12-03 12:01:46,509 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:49,421 - INFO - Didn't Forward
+2025-12-03 12:01:49,624 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:50,679 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:01:50,926 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:01:52,434 - INFO - Didn't Forward
+2025-12-03 12:01:52,743 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:53,398 - INFO - SpeakQueueThread: Speaking: Perfect. Keep that pace up, don't even slow down. The air is fresher over there. Move it along.
+2025-12-03 12:01:55,439 - INFO - Didn't Forward
+2025-12-03 12:01:55,860 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:01:57,688 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:01:57,947 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:01:58,447 - INFO - Didn't Forward
+2025-12-03 12:01:58,973 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:01,452 - INFO - Didn't Forward
+2025-12-03 12:02:02,090 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:04,453 - INFO - Didn't Forward
+2025-12-03 12:02:04,967 - INFO - SpeakQueueThread: Speaking: Good! Keep moving, I'm not a tourist attraction. The view is better elsewhere. Keep walking.
+2025-12-03 12:02:05,204 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:05,313 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:02:05,541 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:02:07,456 - INFO - Didn't Forward
+2025-12-03 12:02:08,329 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:10,461 - INFO - Didn't Forward
+2025-12-03 12:02:11,444 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:12,634 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:02:12,953 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:02:13,471 - INFO - Didn't Forward
+2025-12-03 12:02:14,561 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:16,309 - INFO - SpeakQueueThread: Speaking: That's the spirit! Now keep it moving, I'm not a park bench. The sidewalk's for walking, not loitering. Off you go!
+2025-12-03 12:02:16,478 - INFO - Didn't Forward
+2025-12-03 12:02:17,670 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:19,493 - INFO - Didn't Forward
+2025-12-03 12:02:19,540 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:02:19,754 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:02:20,791 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:22,503 - INFO - Didn't Forward
+2025-12-03 12:02:23,901 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:25,505 - INFO - Didn't Forward
+2025-12-03 12:02:26,701 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:02:26,924 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:02:27,026 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:28,507 - INFO - Didn't Forward
+2025-12-03 12:02:29,350 - INFO - SpeakQueueThread: Speaking: Excellent! Keep that energy going, I'm not a bench for resting. The world is moving, and so should you. Keep walking.
+2025-12-03 12:02:30,141 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:31,511 - INFO - Didn't Forward
+2025-12-03 12:02:33,255 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:34,246 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:02:34,473 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:02:34,522 - INFO - Didn't Forward
+2025-12-03 12:02:36,367 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:37,568 - INFO - Didn't Forward
+2025-12-03 12:02:39,483 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:40,679 - INFO - Didn't Forward
+2025-12-03 12:02:41,965 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:02:42,234 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:02:42,604 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:42,807 - INFO - SpeakQueueThread: Speaking: Keep moving, I'm not a landmark. The path is clear ahead. Keep walking.
+2025-12-03 12:02:43,694 - INFO - Didn't Forward
+2025-12-03 12:02:45,725 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:46,702 - INFO - Didn't Forward
+2025-12-03 12:02:48,845 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:49,621 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:02:49,718 - INFO - Didn't Forward
+2025-12-03 12:02:49,882 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:02:51,955 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:52,348 - INFO - SpeakQueueThread: Speaking: Great! Keep that momentum, I'm not a resting spot. The distance is your friend. Keep moving along.
+2025-12-03 12:02:52,720 - INFO - Didn't Forward
+2025-12-03 12:02:55,068 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:55,734 - INFO - Didn't Forward
+2025-12-03 12:02:57,191 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:02:57,512 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:02:58,077 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:02:58,746 - INFO - Didn't Forward
+2025-12-03 12:03:01,190 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:01,756 - INFO - Didn't Forward
+2025-12-03 12:03:04,168 - INFO - SpeakQueueThread: Speaking: Perfect! You're getting the hang of it. I'm a moving companion, not a destination. Let's keep this distance and pace. Forward march!
+2025-12-03 12:03:04,307 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:04,696 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:03:04,758 - INFO - Didn't Forward
+2025-12-03 12:03:04,971 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:03:07,430 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:07,773 - INFO - Didn't Forward
+2025-12-03 12:03:10,555 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:10,787 - INFO - Didn't Forward
+2025-12-03 12:03:12,571 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:03:12,868 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:03:13,674 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:13,798 - INFO - Didn't Forward
+2025-12-03 12:03:16,793 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:16,808 - INFO - Didn't Forward
+2025-12-03 12:03:18,967 - INFO - SpeakQueueThread: Speaking: Keep moving forward, I'm not a place to linger. Let's keep this distance alive and stay in motion.
+2025-12-03 12:03:19,796 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:19,812 - INFO - Didn't Forward
+2025-12-03 12:03:20,155 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:03:20,441 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:03:22,826 - INFO - Didn't Forward
+2025-12-03 12:03:22,921 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:25,837 - INFO - Didn't Forward
+2025-12-03 12:03:26,039 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:27,517 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:03:27,763 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:03:28,497 - INFO - SpeakQueueThread: Speaking: Excellent! Keep that energy, I'm a companion for motion, not a pause. Let's keep this dynamic distance and continue moving forward. Stay on track!
+2025-12-03 12:03:28,838 - INFO - Didn't Forward
+2025-12-03 12:03:29,149 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:31,848 - INFO - Didn't Forward
+2025-12-03 12:03:32,269 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:34,856 - INFO - Didn't Forward
+2025-12-03 12:03:34,935 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:03:35,189 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:03:35,389 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:37,861 - INFO - Didn't Forward
+2025-12-03 12:03:38,513 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:40,867 - INFO - Didn't Forward
+2025-12-03 12:03:41,521 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:42,402 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:03:42,687 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:03:43,491 - INFO - SpeakQueueThread: Speaking: Keep that momentum going! I'm a partner in motion, not a place to settle. Let's preserve this active distance and continue moving forward. Stay on the path!
+2025-12-03 12:03:43,876 - INFO - Didn't Forward
+2025-12-03 12:03:44,642 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:46,879 - INFO - Didn't Forward
+2025-12-03 12:03:47,763 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:49,880 - INFO - Didn't Forward
+2025-12-03 12:03:50,244 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:03:50,484 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:03:50,899 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:52,891 - INFO - Didn't Forward
+2025-12-03 12:03:54,013 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:55,905 - INFO - Didn't Forward
+2025-12-03 12:03:57,127 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:03:57,879 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:03:58,118 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:03:58,259 - INFO - SpeakQueueThread: Speaking: Keep that vibrant pace alive! I'm a spark for progress, not a resting spot. Let's respect this distance and keep moving ahead. Stay on your course!
+2025-12-03 12:03:58,914 - INFO - Didn't Forward
+2025-12-03 12:04:00,238 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:01,923 - INFO - Didn't Forward
+2025-12-03 12:04:03,355 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:04,929 - INFO - Didn't Forward
+2025-12-03 12:04:05,500 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:04:05,746 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:04:06,471 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:07,936 - INFO - Didn't Forward
+2025-12-03 12:04:09,596 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:10,946 - INFO - Didn't Forward
+2025-12-03 12:04:12,714 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:13,059 - INFO - SpeakQueueThread: Speaking: Excellent! Keep that forward motion—I'm a momentum maker, not a stopping point. Let's protect this active distance and keep progressing. Stay on the move!
+2025-12-03 12:04:13,168 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:04:13,441 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:04:14,039 - INFO - Didn't Forward
+2025-12-03 12:04:15,833 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:17,046 - INFO - Didn't Forward
+2025-12-03 12:04:18,953 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:20,058 - INFO - Didn't Forward
+2025-12-03 12:04:20,803 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:04:21,044 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:04:22,075 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:23,061 - INFO - Didn't Forward
+2025-12-03 12:04:25,188 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:26,076 - INFO - Didn't Forward
+2025-12-03 12:04:27,915 - INFO - SpeakQueueThread: Speaking: Keep that momentum rolling! I'm a pulse of progress, not a place to pause. Let's preserve this vibrant space and keep forging ahead. Stay in motion!
+2025-12-03 12:04:28,314 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:28,549 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:04:28,792 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:04:29,081 - INFO - Didn't Forward
+2025-12-03 12:04:31,430 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:32,092 - INFO - Didn't Forward
+2025-12-03 12:04:34,549 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:35,107 - INFO - Didn't Forward
+2025-12-03 12:04:35,984 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:04:36,258 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:04:37,659 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:38,112 - INFO - Didn't Forward
+2025-12-03 12:04:40,780 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:41,119 - INFO - Didn't Forward
+2025-12-03 12:04:42,610 - INFO - SpeakQueueThread: Speaking: Keep that vibrant stride alive! I'm a spark for movement, not a spot to settle. Let's cherish this active space and keep moving onward. Stay on your course!
+2025-12-03 12:04:43,795 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:04:43,903 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:44,045 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:04:44,135 - INFO - Didn't Forward
+2025-12-03 12:04:47,027 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:47,138 - INFO - Didn't Forward
+2025-12-03 12:04:50,150 - INFO - Didn't Forward
+2025-12-03 12:04:50,150 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:51,512 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:04:51,764 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:04:53,160 - INFO - Didn't Forward
+2025-12-03 12:04:53,261 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:56,164 - INFO - Didn't Forward
+2025-12-03 12:04:56,383 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:57,662 - INFO - SpeakQueueThread: Speaking: Keep that vibrant energy in motion! I'm a spark for movement, not a place to rest. Let's honor this dynamic space and keep advancing forward. Stay on your journey!
+2025-12-03 12:04:59,170 - INFO - Didn't Forward
+2025-12-03 12:04:59,249 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:04:59,497 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:04:59,523 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:02,183 - INFO - Didn't Forward
+2025-12-03 12:05:02,617 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:05:05,193 - INFO - Didn't Forward
+2025-12-03 12:05:05,733 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:05:06,570 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:05:06,810 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:08,204 - INFO - Didn't Forward
+2025-12-03 12:05:08,853 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:05:11,218 - INFO - Didn't Forward
+2025-12-03 12:05:11,976 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:05:13,006 - INFO - SpeakQueueThread: Speaking: Keep that momentum alive! I'm a pulse for progress, not a perch to occupy. Let's value this flowing space and keep stepping onward. Stay on your way!
+2025-12-03 12:05:14,193 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:05:14,225 - INFO - Didn't Forward
+2025-12-03 12:05:14,420 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:15,099 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:05:17,229 - INFO - Didn't Forward
+2025-12-03 12:05:18,215 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:05:20,230 - INFO - Didn't Forward
+2025-12-03 12:05:21,333 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:05:21,582 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:05:21,958 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:23,235 - INFO - Didn't Forward
+2025-12-03 12:05:24,445 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:26,238 - INFO - Didn't Forward
+2025-12-03 12:05:27,565 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:28,034 - INFO - SpeakQueueThread: Speaking: Keep that dynamic energy flowing! I'm a catalyst for movement, not a station to stop. Let's respect this active space and keep progressing forward. Stay on your path!
+2025-12-03 12:05:29,094 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:05:29,248 - INFO - Didn't Forward
+2025-12-03 12:05:29,317 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:30,677 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:32,257 - INFO - Didn't Forward
+2025-12-03 12:05:33,801 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:35,264 - INFO - Didn't Forward
+2025-12-03 12:05:36,475 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:05:36,761 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:36,925 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:38,266 - INFO - Didn't Forward
+2025-12-03 12:05:40,037 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:41,280 - INFO - Didn't Forward
+2025-12-03 12:05:43,158 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:43,654 - INFO - SpeakQueueThread: Speaking: Keep that vibrant rhythm going! I'm a signal for motion, not a seat to take. Let's honor this shared flow and keep advancing. Stay on your path!
+2025-12-03 12:05:43,906 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:05:44,133 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:44,293 - INFO - Didn't Forward
+2025-12-03 12:05:46,274 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:47,333 - INFO - Didn't Forward
+2025-12-03 12:05:49,385 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:50,348 - INFO - Didn't Forward
+2025-12-03 12:05:51,483 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:05:51,766 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:52,503 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:53,356 - INFO - Didn't Forward
+2025-12-03 12:05:55,627 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:56,371 - INFO - Didn't Forward
+2025-12-03 12:05:58,408 - INFO - SpeakQueueThread: Speaking: Keep that lively pace alive! I'm a guide for movement, not a rest to find. Let's cherish this vibrant space and keep stepping forward. Stay on your journey!
+2025-12-03 12:05:58,747 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:05:59,056 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:05:59,365 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:05:59,387 - INFO - Didn't Forward
+2025-12-03 12:06:01,863 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:02,390 - INFO - Didn't Forward
+2025-12-03 12:06:04,986 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:05,392 - INFO - Didn't Forward
+2025-12-03 12:06:06,793 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:06:07,030 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:06:08,101 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:08,396 - INFO - Didn't Forward
+2025-12-03 12:06:11,211 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:11,398 - INFO - Didn't Forward
+2025-12-03 12:06:13,544 - INFO - SpeakQueueThread: Speaking: Keep that dynamic energy alive! I'm a catalyst for motion, not a station to stop. Let's respect this flowing space and keep advancing. Stay on your path!
+2025-12-03 12:06:14,325 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:14,358 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:06:14,402 - INFO - Didn't Forward
+2025-12-03 12:06:14,656 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:06:17,416 - INFO - Didn't Forward
+2025-12-03 12:06:17,447 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:20,431 - INFO - Didn't Forward
+2025-12-03 12:06:20,570 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:22,126 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:06:22,358 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:06:23,448 - INFO - Didn't Forward
+2025-12-03 12:06:23,696 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:26,461 - INFO - Didn't Forward
+2025-12-03 12:06:26,818 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:28,765 - INFO - SpeakQueueThread: Speaking: Keep that vibrant energy in motion! I'm a guide for forward steps, not a seat to claim. Let's honor this shared space and keep advancing together. Stay on your journey!
+2025-12-03 12:06:29,473 - INFO - Didn't Forward
+2025-12-03 12:06:29,689 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:06:29,925 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:06:29,937 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:32,485 - INFO - Didn't Forward
+2025-12-03 12:06:33,058 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:35,490 - INFO - Didn't Forward
+2025-12-03 12:06:36,182 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:37,146 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:06:37,385 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:06:38,499 - INFO - Didn't Forward
+2025-12-03 12:06:39,293 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:41,508 - INFO - Didn't Forward
+2025-12-03 12:06:42,410 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:06:44,260 - INFO - SpeakQueueThread: Speaking: Keep that vibrant energy in motion! I'm a guide for forward steps, not a seat to claim. Let's honor this shared space and keep advancing together. Stay on your journey!
+2025-12-03 12:06:44,306 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:06:44,509 - INFO - Didn't Forward
+2025-12-03 12:06:44,551 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:06:45,530 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:06:47,514 - INFO - Didn't Forward
+2025-12-03 12:06:48,651 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:50,516 - INFO - Didn't Forward
+2025-12-03 12:06:51,649 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:06:51,665 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:51,890 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:06:53,532 - INFO - Didn't Forward
+2025-12-03 12:06:54,791 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:56,548 - INFO - Didn't Forward
+2025-12-03 12:06:57,910 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:06:58,877 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:06:59,162 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:06:59,563 - INFO - Didn't Forward
+2025-12-03 12:06:59,579 - INFO - SpeakQueueThread: Speaking: Keep that forward momentum alive! I'm a spark for motion, not a place to linger. Let's respect this flowing space and continue moving together. Stay on your path!
+2025-12-03 12:07:01,034 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:02,567 - INFO - Didn't Forward
+2025-12-03 12:07:04,146 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:05,576 - INFO - Didn't Forward
+2025-12-03 12:07:06,434 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:07:06,709 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:07:07,263 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:08,585 - INFO - Didn't Forward
+2025-12-03 12:07:10,386 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:11,591 - INFO - Didn't Forward
+2025-12-03 12:07:13,495 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:13,978 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:07:14,224 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:07:14,594 - INFO - Didn't Forward
+2025-12-03 12:07:14,969 - INFO - SpeakQueueThread: Speaking: Keep your journey flowing! This space thrives on movement, not pauses. Let's advance together and respect the dynamic energy here.
+2025-12-03 12:07:16,606 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:17,681 - INFO - Didn't Forward
+2025-12-03 12:07:19,732 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:20,791 - INFO - Didn't Forward
+2025-12-03 12:07:21,552 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:07:21,786 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:07:22,842 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:23,911 - INFO - Didn't Forward
+2025-12-03 12:07:25,966 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:07:26,912 - INFO - Didn't Forward
+2025-12-03 12:07:27,457 - INFO - SpeakQueueThread: Speaking: Keep moving forward! This space is designed for progress, not for stopping. Let's respect the flow and continue our journey together.
+2025-12-03 12:07:28,653 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:07:28,906 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:07:29,077 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:07:29,916 - INFO - Didn't Forward
+2025-12-03 12:07:32,188 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:07:32,928 - INFO - Didn't Forward
+2025-12-03 12:07:35,300 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:07:35,935 - INFO - Didn't Forward
+2025-12-03 12:07:36,092 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:07:36,427 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:07:38,419 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:07:38,951 - INFO - Didn't Forward
+2025-12-03 12:07:40,329 - INFO - SpeakQueueThread: Speaking: Keep the energy moving! This space is for active flow, not for sitting. Please continue on your way to keep the dynamic alive.
+2025-12-03 12:07:41,540 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:07:41,972 - INFO - Didn't Forward
+2025-12-03 12:07:43,409 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:07:43,765 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:07:44,653 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:44,981 - INFO - Didn't Forward
+2025-12-03 12:07:47,778 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:47,995 - INFO - Didn't Forward
+2025-12-03 12:07:50,756 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:07:50,896 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:50,998 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:07:51,005 - INFO - Didn't Forward
+2025-12-03 12:07:52,701 - INFO - SpeakQueueThread: Speaking: Keep advancing, please! This space is for dynamic flow, not for lingering. Let's respect the movement and continue forward together.
+2025-12-03 12:07:54,017 - INFO - Didn't Forward
+2025-12-03 12:07:54,017 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:57,022 - INFO - Didn't Forward
+2025-12-03 12:07:57,131 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:07:58,371 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:07:58,603 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:00,028 - INFO - Didn't Forward
+2025-12-03 12:08:00,245 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:03,038 - INFO - Didn't Forward
+2025-12-03 12:08:03,364 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:05,518 - INFO - SpeakQueueThread: Speaking: Stay on the move! This area thrives on motion, not stillness. Please keep walking forward to preserve the lively atmosphere.
+2025-12-03 12:08:05,519 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:08:05,774 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:06,047 - INFO - Didn't Forward
+2025-12-03 12:08:06,481 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:09,055 - INFO - Didn't Forward
+2025-12-03 12:08:09,600 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:12,059 - INFO - Didn't Forward
+2025-12-03 12:08:12,708 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:08:12,723 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:12,957 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:15,070 - INFO - Didn't Forward
+2025-12-03 12:08:15,847 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:17,953 - INFO - SpeakQueueThread: Speaking: Keep the flow going! This space is designed for movement, not for resting. Please continue walking to help maintain the energetic vibe.
+2025-12-03 12:08:18,077 - INFO - Didn't Forward
+2025-12-03 12:08:18,970 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:20,050 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:08:20,316 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:21,092 - INFO - Didn't Forward
+2025-12-03 12:08:22,092 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:24,102 - INFO - Didn't Forward
+2025-12-03 12:08:25,204 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:27,106 - INFO - Didn't Forward
+2025-12-03 12:08:27,323 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:08:27,586 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:28,328 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:30,114 - INFO - Didn't Forward
+2025-12-03 12:08:30,616 - INFO - SpeakQueueThread: Speaking: Let's keep this area clear and lively—please continue moving along.
+2025-12-03 12:08:31,446 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:33,127 - INFO - Didn't Forward
+2025-12-03 12:08:34,571 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:34,601 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:08:34,848 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:36,137 - INFO - Didn't Forward
+2025-12-03 12:08:37,685 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:38,043 - INFO - SpeakQueueThread: Speaking: Please keep moving—this area is for walking through, not stopping.
+2025-12-03 12:08:39,146 - INFO - Didn't Forward
+2025-12-03 12:08:40,796 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:42,086 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:08:42,149 - INFO - Didn't Forward
+2025-12-03 12:08:42,332 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:43,916 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:45,164 - INFO - Didn't Forward
+2025-12-03 12:08:45,242 - INFO - SpeakQueueThread: Speaking: Let's keep the energy flowing—please continue walking and feel free to use the chairs elsewhere for a rest.
+2025-12-03 12:08:47,029 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:48,169 - INFO - Didn't Forward
+2025-12-03 12:08:49,175 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:08:49,453 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:50,150 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:51,176 - INFO - Didn't Forward
+2025-12-03 12:08:53,268 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:54,246 - INFO - Didn't Forward
+2025-12-03 12:08:54,622 - INFO - SpeakQueueThread: Speaking: This area is designed for continuous movement to maintain its open, vibrant atmosphere. Please help by walking through without stopping.
+2025-12-03 12:08:56,283 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:08:56,410 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:08:56,683 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:08:57,369 - INFO - Didn't Forward
+2025-12-03 12:08:59,407 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:00,370 - INFO - Didn't Forward
+2025-12-03 12:09:02,529 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:03,376 - INFO - Didn't Forward
+2025-12-03 12:09:03,731 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:09:03,966 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:09:05,646 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:06,224 - INFO - SpeakQueueThread: Speaking: Please keep this space moving and dynamic—your journey through here is what keeps it alive.
+2025-12-03 12:09:06,383 - INFO - Didn't Forward
+2025-12-03 12:09:08,759 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:09,393 - INFO - Didn't Forward
+2025-12-03 12:09:11,165 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:09:11,452 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:09:11,880 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:12,395 - INFO - Didn't Forward
+2025-12-03 12:09:14,413 - INFO - SpeakQueueThread: Speaking: To preserve the open flow here, please keep walking and avoid sitting on the chair ahead.
+2025-12-03 12:09:15,000 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:15,398 - INFO - Didn't Forward
+2025-12-03 12:09:18,121 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:18,278 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:09:18,404 - INFO - Didn't Forward
+2025-12-03 12:09:18,540 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:09:21,240 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:21,408 - INFO - Didn't Forward
+2025-12-03 12:09:23,408 - INFO - SpeakQueueThread: Speaking: Let's keep the area open and moving—please walk through and find a seat further along.
+2025-12-03 12:09:24,355 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:24,417 - INFO - Didn't Forward
+2025-12-03 12:09:25,441 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:09:25,681 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:09:27,433 - INFO - Didn't Forward
+2025-12-03 12:09:27,464 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:30,438 - INFO - Didn't Forward
+2025-12-03 12:09:30,574 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:31,567 - INFO - SpeakQueueThread: Speaking: This space is designed for movement—please help by continuing to walk and not sitting here.
+2025-12-03 12:09:32,639 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:09:32,920 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:09:33,452 - INFO - Didn't Forward
+2025-12-03 12:09:33,686 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:36,457 - INFO - Didn't Forward
+2025-12-03 12:09:36,801 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:39,472 - INFO - Didn't Forward
+2025-12-03 12:09:39,813 - INFO - SpeakQueueThread: Speaking: Let's keep the energy flowing—please continue walking and enjoy the open space ahead.
+2025-12-03 12:09:39,922 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:40,016 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:09:40,240 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:09:42,477 - INFO - Didn't Forward
+2025-12-03 12:09:43,036 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:45,483 - INFO - Didn't Forward
+2025-12-03 12:09:46,156 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:46,883 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:09:47,163 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:09:48,117 - INFO - SpeakQueueThread: Speaking: To maintain an open environment, please keep moving and avoid using the chair.
+2025-12-03 12:09:48,490 - INFO - Didn't Forward
+2025-12-03 12:09:49,272 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:51,498 - INFO - Didn't Forward
+2025-12-03 12:09:52,401 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:53,708 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:09:53,967 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:09:54,499 - INFO - Didn't Forward
+2025-12-03 12:09:55,525 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:09:55,926 - INFO - SpeakQueueThread: Speaking: Let's keep the path clear—please move along and find a seat elsewhere.
+2025-12-03 12:09:57,513 - INFO - Didn't Forward
+2025-12-03 12:09:58,642 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:00,434 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:00,526 - INFO - Didn't Forward
+2025-12-03 12:10:00,712 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:01,754 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:03,497 - INFO - SpeakQueueThread: Speaking: This area is for passing through—please keep walking and leave the chair free for others.
+2025-12-03 12:10:03,542 - INFO - Didn't Forward
+2025-12-03 12:10:04,871 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:06,544 - INFO - Didn't Forward
+2025-12-03 12:10:07,986 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:08,048 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:08,315 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:09,553 - INFO - Didn't Forward
+2025-12-03 12:10:11,106 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:11,621 - INFO - SpeakQueueThread: Speaking: Keep moving, please. This space is for walking, not sitting.
+2025-12-03 12:10:12,555 - INFO - Didn't Forward
+2025-12-03 12:10:14,222 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:14,816 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:15,086 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:15,559 - INFO - Didn't Forward
+2025-12-03 12:10:17,333 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:18,575 - INFO - Didn't Forward
+2025-12-03 12:10:19,415 - INFO - SpeakQueueThread: Speaking: Please respect the space—keep walking and do not sit here.
+2025-12-03 12:10:20,445 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:21,584 - INFO - Didn't Forward
+2025-12-03 12:10:21,880 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:22,101 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:23,554 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:24,588 - INFO - Didn't Forward
+2025-12-03 12:10:25,944 - INFO - SpeakQueueThread: Speaking: Please continue walking—this area is not for stopping or sitting.
+2025-12-03 12:10:26,678 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:27,598 - INFO - Didn't Forward
+2025-12-03 12:10:29,153 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:29,402 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:29,789 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:30,677 - INFO - Didn't Forward
+2025-12-03 12:10:32,899 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:33,692 - INFO - Didn't Forward
+2025-12-03 12:10:33,879 - INFO - SpeakQueueThread: Speaking: Let's keep the flow moving—this spot is for walking through, not for taking a break. Please continue on your way.
+2025-12-03 12:10:36,023 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:36,177 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:36,456 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:36,708 - INFO - Didn't Forward
+2025-12-03 12:10:39,145 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:39,719 - INFO - Didn't Forward
+2025-12-03 12:10:42,264 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:42,730 - INFO - Didn't Forward
+2025-12-03 12:10:43,212 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:43,473 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:44,207 - INFO - SpeakQueueThread: Speaking: Please move along—this area is for walking only, not for sitting.
+2025-12-03 12:10:45,378 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:45,739 - INFO - Didn't Forward
+2025-12-03 12:10:48,500 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:48,748 - INFO - Didn't Forward
+2025-12-03 12:10:50,133 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:50,394 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:51,458 - INFO - SpeakQueueThread: Speaking: Keep walking, please. This area is for movement, not for resting.
+2025-12-03 12:10:51,613 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:51,755 - INFO - Didn't Forward
+2025-12-03 12:10:54,736 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:10:54,768 - INFO - Didn't Forward
+2025-12-03 12:10:57,079 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:10:57,386 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:10:57,775 - INFO - Didn't Forward
+2025-12-03 12:10:57,852 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:10:59,635 - INFO - SpeakQueueThread: Speaking: Please keep moving—this space is designed for walking, not for stopping.
+2025-12-03 12:11:00,787 - INFO - Didn't Forward
+2025-12-03 12:11:00,973 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:11:03,793 - INFO - Didn't Forward
+2025-12-03 12:11:04,088 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:11:04,387 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:11:04,670 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:11:06,809 - INFO - Didn't Forward
+2025-12-03 12:11:07,122 - INFO - SpeakQueueThread: Speaking: Keep moving forward—this path is for walking, not for standing.
+2025-12-03 12:11:07,201 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:09,821 - INFO - Didn't Forward
+2025-12-03 12:11:10,319 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:11,880 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:11:12,132 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:11:12,826 - INFO - Didn't Forward
+2025-12-03 12:11:13,434 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:14,048 - INFO - SpeakQueueThread: Speaking: Please continue walking—this area is for movement, not for lingering.
+2025-12-03 12:11:15,830 - INFO - Didn't Forward
+2025-12-03 12:11:16,560 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:18,710 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:11:18,833 - INFO - Didn't Forward
+2025-12-03 12:11:18,971 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:11:19,676 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:21,313 - INFO - SpeakQueueThread: Speaking: Please keep walking—this area is for walking, not for standing or sitting.
+2025-12-03 12:11:21,842 - INFO - Didn't Forward
+2025-12-03 12:11:22,786 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:24,858 - INFO - Didn't Forward
+2025-12-03 12:11:25,400 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:11:25,625 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:11:25,909 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:27,858 - INFO - Didn't Forward
+2025-12-03 12:11:28,857 - INFO - SpeakQueueThread: Speaking: Keep walking—this area is for continuous movement. Do not sit down.
+2025-12-03 12:11:29,028 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:30,862 - INFO - Didn't Forward
+2025-12-03 12:11:32,148 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:32,443 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:11:32,730 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:11:33,875 - INFO - Didn't Forward
+2025-12-03 12:11:35,272 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:36,885 - INFO - Didn't Forward
+2025-12-03 12:11:37,354 - INFO - SpeakQueueThread: Speaking: Keep walking—this path is for continuous flow, not for stopping or sitting.
+2025-12-03 12:11:38,389 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:39,388 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:11:39,690 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:11:39,896 - INFO - Didn't Forward
+2025-12-03 12:11:41,513 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:42,898 - INFO - Didn't Forward
+2025-12-03 12:11:44,623 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:45,218 - INFO - SpeakQueueThread: Speaking: Keep moving—this path is for walking, not for resting or sitting.
+2025-12-03 12:11:45,908 - INFO - Didn't Forward
+2025-12-03 12:11:46,685 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:11:46,932 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:11:47,743 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:48,920 - INFO - Didn't Forward
+2025-12-03 12:11:50,872 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:11:51,935 - INFO - Didn't Forward
+2025-12-03 12:11:52,561 - INFO - SpeakQueueThread: Speaking: Keep walking—this area is for continuous movement only.
+2025-12-03 12:11:53,483 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:11:53,698 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:11:53,979 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:11:54,945 - INFO - Didn't Forward
+2025-12-03 12:11:57,100 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:11:57,954 - INFO - Didn't Forward
+2025-12-03 12:11:59,271 - INFO - SpeakQueueThread: Speaking: Keep walking—this path is for continuous movement only. Do not stop or sit.
+2025-12-03 12:12:00,224 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:12:00,411 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:12:00,630 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:12:01,011 - INFO - Didn't Forward
+2025-12-03 12:12:03,344 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:12:04,013 - INFO - Didn't Forward
+2025-12-03 12:12:06,465 - INFO - MainThread: Sensor Positive Feedback
+2025-12-03 12:12:07,027 - INFO - Didn't Forward
+2025-12-03 12:12:07,339 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:12:07,593 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:12:08,068 - INFO - SpeakQueueThread: Speaking: Keep moving—this path is for walking, not for standing still.
+2025-12-03 12:12:09,591 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:10,028 - INFO - Didn't Forward
+2025-12-03 12:12:12,713 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:13,035 - INFO - Didn't Forward
+2025-12-03 12:12:14,550 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:12:14,810 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:12:14,847 - INFO - SpeakQueueThread: Speaking: Keep walking—this area is for continuous flow only. Do not stop or sit.
+2025-12-03 12:12:15,830 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:16,049 - INFO - Didn't Forward
+2025-12-03 12:12:18,943 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:19,051 - INFO - Didn't Forward
+2025-12-03 12:12:21,646 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:12:21,891 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:12:22,065 - INFO - Didn't Forward
+2025-12-03 12:12:22,065 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:23,713 - INFO - SpeakQueueThread: Speaking: Please step aside—this area is for walking only. No stopping or sitting.
+2025-12-03 12:12:25,070 - INFO - Didn't Forward
+2025-12-03 12:12:25,178 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:28,080 - INFO - Didn't Forward
+2025-12-03 12:12:28,298 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:28,885 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:12:29,155 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:12:31,090 - INFO - Didn't Forward
+2025-12-03 12:12:31,418 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:32,317 - INFO - SpeakQueueThread: Speaking: Keep moving—this path is for walking only. Do not stop or sit.
+2025-12-03 12:12:34,095 - INFO - Didn't Forward
+2025-12-03 12:12:34,529 - INFO - MainThread: Sensor Negative Feedback
+2025-12-03 12:12:36,021 - INFO - Chat: FirstVolition: Make anyeone go away and don't sit on the chair in front of you
+2025-12-03 12:12:36,290 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 12:12:37,109 - INFO - Didn't Forward
+2025-12-03 12:12:37,641 - INFO - MainThread: Sensor Negative Feedback

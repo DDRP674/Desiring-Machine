@@ -1,0 +1,42 @@
+{
+    "log_dir": "./log",
+    "do_log": true,
+    "do_display": true,
+
+    // STT
+    "stt": {
+        "engine": "pyttsx3", // Options: "pyttsx3", "edge_tts"
+        "settings": {
+            "edge_tts": {
+                "language": "en-US",
+                "voice_name": "en-US-AriaNeural",
+                "voice_speed": "medium",
+                "voice_pitch": "+0Hz",
+                "voice_volume": "medium"
+            }
+        }
+    },
+
+    // LLM
+    "llms": {
+        "LargeModelJson": {
+            "api_key": "sk-",
+            "api_base": "https://",
+            "model": "",
+            "temperature": 1.4,
+            "response_format": { "type": "json_object" }
+        },
+        "SmallModel": {
+            "api_key": "sk-",
+            "api_base": "https://",
+            "model": "",
+            "temperature": 0.3
+        },
+        "LargeModel": {
+            "api_key": "sk-",
+            "api_base": "https://",
+            "model": "",
+            "temperature": 1.3
+        }
+    }
+}
