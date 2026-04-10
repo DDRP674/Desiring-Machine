@@ -47,7 +47,7 @@ KEEP_PROMPT_2 = """
 class LLM:
     def __init__(self):
         self.processing_queue = queue.Queue()
-        settingsPath = os.path.normpath("settings.json")
+        settingsPath = os.path.normpath("./settings.json")
         self.settings = load_json_with_comments(settingsPath)["llms"]
         self.attract_speech = ""
 
