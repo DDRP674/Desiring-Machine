@@ -59,7 +59,7 @@ Human beings are desire machines, the desire mechanism (i.e., human behaviour ev
 
 Everything involves human, everything in the human world, is largely impacted, or even based on desire mechanism.  
 
-If we develop a computer system that have this desire mechanism as well, it may behave like human beings in a more fundamental way.  
+If we develop a computer system that have this desire mechanism as well, it may behave like human beings in a more fundamental way. The machine will have desire, and thus become human-ly.  
 
 And if we can study or modify this desire, we may have a deeper understanding of human beings, intelligence, or even discover things beyond our understandings.   
 
